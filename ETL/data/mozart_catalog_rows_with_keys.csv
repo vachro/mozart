@@ -1,0 +1,1014 @@
+k9_key,composition,place,k1,k6,key_sig,year,date_text,age,category,type,created_at,spotify_track_id,k9_key2,k9_key2_str,k9_key3,id
+"1,01",Minuet in G for Piano,Salzburg,1,1e,G Major,1761,December 1761 - January 1762,5,,,2025-09-05 20:46:27.448184+00,,1,0001,"0001|1,01",1
+"1,02",Minuet in C for Piano,Salzburg,1,1f,C Major,1761,December 1761 - January 1762,5,,,2025-09-05 20:46:27.448184+00,,1,0001,"0001|1,02",2
+1a,Andante in C for Piano,Salzburg,,1a,C Major,1761,early 1761,5,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,1,0001,0001|1a,3
+1b,Allegro in C for Piano,Salzburg,,1b,C Major,1761,early 1761,5,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,1,0001,0001|1b,4
+1c,Allegro in F for Piano,Salzburg,,1c,F Major,1761,11 December 1761,5,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,1,0001,0001|1c,5
+1d,Minuet in F for Piano,Salzburg,,1d,F Major,1761,16 December 1761,5,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,1,0001,0001|1d,6
+1e,Minuet for Harpsichord,Paris,,,G Major,1763,,7,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,1,0001,0001|1e,7
+1f,Minuet for Harpsichord,Paris,,,C Major,1763,,7,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,1,0001,0001|1f,8
+2,Minuet in F for Piano,Salzburg,2,2,F Major,1762,January 1762,6,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,2,0002,0002|2,9
+3,Allegro in B-flat for Piano,Salzburg,3,3,B Flat Major,1762,4 March 1762,6,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,3,0003,0003|3,10
+4,Minuet in F for Piano,Salzburg,4,4,F Major,1762,11 May 1762,6,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,4,0004,0004|4,11
+5,Minuet in F for Piano,Salzburg,5,5,F Major,1762,5 July 1762,6,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,5,0005,0005|5,12
+6,Violin Sonata No. 1 in C,Salzburg or Paris,6,6,C Major,1764,1762-64,8,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,6,0006,0006|6,13
+7,Violin Sonata No. 2 in D,Salzburg or Paris,7,7,D Major,1764,1762-64,8,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,7,0007,0007|7,14
+8,Violin Sonata No. 3 in B-flat,Paris,8,8,B Flat Major,1764,January 1764,8,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:28.676547+00,,8,0008,0008|8,15
+9,Violin Sonata No. 4 in G,Paris,9,9,G Major,1764,January 1764,8,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:28.676547+00,,9,0009,0009|9,16
+9a,Allegro in C for Piano,Salzburg,9a,5a,C Major,1763,1764,7,Piano Music,Piano Pieces,2025-09-05 20:46:28.676547+00,,9,0009,0009|9a,17
+9b,Andante in B-flat for Piano,Salzburg,9b,5b,B Flat Major,1763,1764,7,Piano Music,Piano Pieces,2025-09-05 20:46:28.676547+00,,9,0009,0009|9b,18
+10,Violin Sonata No. 5 in B-flat,London,10,10,B Flat Major,1764,1764,8,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,10,0010,0010|10,19
+11,Violin Sonata No. 6 in G,London,11,11,G Major,1764,1764,8,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,11,0011,0011|11,20
+12,Violin Sonata No. 7 in A,London,12,12,A Major,1764,1764,8,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,12,0012,0012|12,21
+13,Violin Sonata No. 8 in F,London,13,13,F Major,1764,1764,8,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,13,0013,0013|13,22
+14,Violin Sonata No. 9 in C,London,14,14,C Major,1764,1764,8,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,14,0014,0014|14,23
+15,Violin Sonata No. 10 in B-flat,London,15,15,B Flat Major,1764,1764,8,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,15,0015,0015|15,24
+15a - 15ss,"The London Sketchbook, 43 untitled pieces",London,Anh. 109b,15a - 15ss,,1765,1765,9,,,2025-09-05 20:46:27.448184+00,,15,0015,0015|15a - 15ss,25
+15a-ss,London Sketchbook: 43 Pieces for Harpsichord,London,,,,1764,,8,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,15,0015,0015|15a-ss,26
+16,Symphony No. 1 in E-flat,London,16,16,E Flat Major,1764,August/September 1764,8,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,16,0016,0016|16,27
+19,Symphony No. 4 in D,London,19,19,D Major,1765,1765,9,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,19,0019,0019|19,28
+19a,Symphony in F,London,Anh. 223,19a,F Major,1765,early 1765,9,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,19,0019,0019|19a,29
+19b,Symphony in C (fragment),London,Anh. 222,19b,C Major,1765,13 May 1765,9,,,2025-09-05 20:46:27.448184+00,,19,0019,0019|19b,30
+19d,Piano Sonata in C for Four-Hands (doubtful),London,,19d,C Major,1765,13 May 1765,9,Piano Music,Works for two pianos and for piano four hands,2025-09-05 20:46:27.448184+00,,19,0019,0019|19d,31
+20,"Motet in G minor, ""God is our refuge""",London,20,20,G Major,1765,July 1765,9,Vocal Music (smaller forms),Notturni & Polyphonic singing,2025-09-05 20:46:27.448184+00,,20,0020,0020|20,32
+21,"Aria for Tenor, ""Va, dal furor portata""",London,21,19c,,1765,1765,9,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,21,0021,0021|21,33
+21a,Variations in A (lost),London,Anh. 206,21a,A Major,1765,July 1765,9,,,2025-09-05 20:46:27.448184+00,,21,0021,0021|21a,34
+22,Symphony No. 5 in B-flat,The Hague,22,22,B Flat Major,1765,December 1765,9,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,22,0022,0022|22,35
+23,"Aria for soprano and orchestra ""Conservati fedele""",The Hague,23,23,,1766,October 1765 and January 1766,10,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,23,0023,0023|23,36
+24,"8 Variations in G on ""Laat ons Juichen""",The Hague,24,24,G Major,1766,7 March 1766,10,Piano Music,Variations for Piano,2025-09-05 20:46:27.448184+00,,24,0024,0024|24,37
+25,"7 Variations in D on ""Willem van Nassau""",Amsterdam,25,25,D Major,1766,7 March 1766,10,Piano Music,Variations for Piano,2025-09-05 20:46:27.448184+00,,25,0025,0025|25,38
+26,Violin Sonata No. 11 in E-flat,The Hague,26,26,E Flat Major,1766,February 1766,10,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,26,0026,0026|26,39
+27,Violin Sonata No. 12 in G,The Hague,27,27,G Major,1766,February 1766,10,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,27,0027,0027|27,40
+28,Violin Sonata No. 13 in C,The Hague,28,28,C Major,1766,February 1766,10,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,28,0028,0028|28,41
+29,Violin Sonata No. 14 in D,The Hague,29,29,D Major,1766,February 1766,10,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,29,0029,0029|29,42
+30,Violin Sonata No. 15 in F,The Hague,30,30,F Major,1766,February 1766,10,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,30,0030,0030|30,43
+31,Violin Sonata No. 16 in B-flat,The Hague,31,31,B Flat Major,1766,February 1766,10,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,31,0031,0031|31,44
+32,Gallimathias musicum (quodlibet),The Hague,32,32,,1766,early March 1766,10,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,32,0032,0032|32,45
+32a,The Third Sketchbook (lost),Netherlands,,32a,,1765,Winter 1765-66,9,,,2025-09-05 20:46:27.448184+00,,32,0032,0032|32a,46
+033b,Movement for Harpsichord,Zurich,,,F Major,1766,,10,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,33,0033,0033|033b,47
+33,Kyrie in F,Paris,33,33,F Major,1766,12 June 1766,10,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,33,0033,0033|33,48
+33a,Solos for Flute (lost),Lausanne,,33a,,1766,1766,10,,,2025-09-05 20:46:27.448184+00,,33,0033,0033|33a,49
+33b,Solos for Cello (lost),Donaueschingen,,33b,,1766,1766,10,,,2025-09-05 20:46:27.448184+00,,33,0033,0033|33b,50
+33c,"""Stabat mater"" for 4 voices in G (lost)",Paris or Salzburg,,33c,G Major,1766,1766,10,,,2025-09-05 20:46:27.448184+00,,33,0033,0033|33c,51
+33d,Piano Sonata in G (lost),Salzburg,Anh. 199,33d,G Major,1766,1766,10,,,2025-09-05 20:46:27.448184+00,,33,0033,0033|33d,52
+33e,Piano Sonata in B-flat (lost),Salzburg,Anh. 200,33e,B Flat Major,1766,1766,10,,,2025-09-05 20:46:27.448184+00,,33,0033,0033|33e,53
+33f,Piano Sonata in C (lost),Salzburg,Anh. 201,33f,C Major,1766,1766,10,,,2025-09-05 20:46:27.448184+00,,33,0033,0033|33f,54
+33g,Piano Sonata in F (lost; doubtful),Salzburg,Anh. 202,33g,F Major,1766,1766,10,,,2025-09-05 20:46:27.448184+00,,33,0033,0033|33g,55
+33h,Waldhornstück (lost),Salzburg,,33h,,1766,1766,10,,,2025-09-05 20:46:27.448184+00,,33,0033,0033|33h,56
+34,"Offertory in C, ""Scande coeli limina""",Bavaria,34,34,C Major,1766,early 1767,10,Sacred Works,Smaller Church Works,2025-09-05 20:46:27.448184+00,,34,0034,0034|34,57
+35,Die Schuldigkeit des ersten Gebots,Salzburg,35,35,,1767,1767,11,Sacred Works,"Oratorios, Sacred Singspiels and Cantatas",2025-09-05 20:46:27.448184+00,,35,0035,0035|35,58
+36,"Recitative and aria for tenor and orchestra, ""Or che il dover - Tali e cotanti sono""",Salzburg,36,33i,,1766,December 1766,10,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,36,0036,0036|36,59
+37,Concerto for Piano #1 (Arrangement from Keyboard Sonatas by Raupach? & Honauer),Salzburg,,,F Major,1767,,11,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,37,0037,0037|37,60
+38,Apollo et Hyacinthus,Salzburg,38,38,,1767,13 May 1767,11,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,38,0038,0038|38,61
+39,"Concerto for Piano #2 (Arrangement from Keyboard Sonatas by Raupach [i, iii] & Schobert [ii])",Salzburg,,,B Flat Major,1767,,11,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,39,0039,0039|39,62
+40,"Concerto for Piano #3 (Arrangement from Keyboard Sonatas by Honauer, Eckard & C.P.E. Bach",Salzburg,,,D Major,1767,,11,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,40,0040,0040|40,63
+41,"Concerto for Piano #4 (Arrangement from Keyboard Sonatas by Honauer [i, iii] & Raupach [ii])",Salzburg,,,G Major,1767,,11,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,41,0041,0041|41,64
+41a,6 Divertimento (lost),Salzburg,,41a,,1767,1767,11,,,2025-09-05 20:46:27.448184+00,,41,0041,0041|41a,65
+41b,"""Bläserstücke verschiedener Besetzung"" (lost)",Salzburg,,41b,,1767,1767,11,,,2025-09-05 20:46:27.448184+00,,41,0041,0041|41b,66
+41c,Various Marches (lost),Salzburg,,41c,,1767,1767,11,,,2025-09-05 20:46:27.448184+00,,41,0041,0041|41c,67
+41d,Various Minuets (lost),Salzburg,,41d,,1767,1767,11,,,2025-09-05 20:46:27.448184+00,,41,0041,0041|41d,68
+41e,Fugue (lost),Salzburg,,41e,,1767,1767,11,,,2025-09-05 20:46:27.448184+00,,41,0041,0041|41e,69
+41f,Four-part Fugue (lost),Salzburg,,41f,,1767,1767,11,,,2025-09-05 20:46:27.448184+00,,41,0041,0041|41f,70
+41g,"Serenade for 2 Violins, Cello, and Organ (lost)",Salzburg,,41g,,1767,1767,11,,,2025-09-05 20:46:27.448184+00,,41,0041,0041|41g,71
+42,Grabmusik,Salzburg,42,35a,,1767,1767,11,Sacred Works,"Oratorios, Sacred Singspiels and Cantatas",2025-09-05 20:46:27.448184+00,,42,0042,0042|42,72
+43,Symphony No. 6 in F,Olomouc and Vienna,43,43,F Major,1767,late 1767,11,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,43,0043,0043|43,73
+43a,"Duet for Two Sopranos, ""Ach, was müßen wir erfahren?"" (fragment)",Vienna,,43a,,1767,October 1767,11,,,2025-09-05 20:46:27.448184+00,,43,0043,0043|43a,74
+045a,"Symphony #7a ""Alte Lambacher""",Vienna,,,G Major,1768,,12,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,45,0045,0045|045a,75
+045b,Symphony #55,Vienna,,,B Flat Major,1768,,12,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,45,0045,0045|045b,76
+45,Symphony No. 7 in D,Vienna,45,45,D Major,1768,16 January 1768,12,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,45,0045,0045|45,77
+45a,"Symphony in G, ""Alte Lambach""",The Hague,Anh. 221,45a,G Major,1766,1766 and 1767,10,,,2025-09-05 20:46:27.448184+00,,45,0045,0045|45a,78
+45b,Symphony No. 55 in B-flat (doubtful),Vienna,Anh. 214,45b,B Flat Major,1768,early 1768,12,,,2025-09-05 20:46:27.448184+00,,45,0045,0045|45b,79
+46,Quintet in B-flat,spurious; anonymous arrangement of parts of K. 361/370a,46,Anh. B,B Flat Major,,spurious; anonymous arrangement of parts of K. 361/370a,370,,,2025-09-05 20:46:27.448184+00,,46,0046,0046|46,80
+46d,Violin Sonata in C,Vienna,,46d,C Major,1768,1 September 1768,12,Chamber Music,Duos and Trios for Strings and Winds,2025-09-05 20:46:27.448184+00,,46,0046,0046|46d,81
+46e,Violin Sonata in F,Vienna,,46e,F Major,1768,1 September 1768,12,Chamber Music,Duos and Trios for Strings and Winds,2025-09-05 20:46:27.448184+00,,46,0046,0046|46e,82
+47,Veni Sancte Spiritus in C,Vienna,47,47,C Major,1768,Autumn 1768,12,Sacred Works,Smaller Church Works,2025-09-05 20:46:27.448184+00,,47,0047,0047|47,83
+47b,"Offertorium in C, ""Benedictus sit Deus"" (lost)",Vienna,,47b,C Major,1768,October/November 1768,12,,,2025-09-05 20:46:27.448184+00,,47,0047,0047|47b,84
+47c,Trumpet Concerto (lost),Vienna,,47c,,1768,Autumn 1768,12,,,2025-09-05 20:46:27.448184+00,,47,0047,0047|47c,85
+48,Symphony No. 8 in D,Vienna,48,48,D Major,1768,13 December 1768,12,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,48,0048,0048|48,86
+49,Missa brevis in G,Vienna,49,47d,G Major,1768,October - November 1768,12,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,49,0049,0049|49,87
+50,Bastien und Bastienne,Vienna,50,46b,,1768,September - October 1768,12,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,50,0050,0050|50,88
+51,La finta semplice,Vienna,51,46a,,1768,First half 1768,12,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,51,0051,0051|51,89
+52,"""Daphne, deine Rosenwangen""",Vienna,52,46c,,1768,Summer 1768,12,,,2025-09-05 20:46:27.448184+00,,52,0052,0052|52,90
+53,"Song, ""An die Freude""",Vienna,53,47e,,1768,November 1768,12,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,53,0053,0053|53,91
+54,5 Variations in F for Piano,Vienna,54,Anh. 138a; 547b,F Major,1768,July 1788,12,Piano Music,Variations for Piano,2025-09-05 20:46:27.448184+00,,54,0054,0054|54,92
+061gl,Minuet for Keyboard,Salzburg,,,A Major,1770,,14,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,61,0061,0061|061gl,93
+061gll,Minuet for Keyboard,Salzburg,,,C Major,1771,,15,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,61,0061,0061|061gll,94
+061h,6 Minuets for Orchestra,Salzburg,,,,1769,,13,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,61,0061,0061|061h,95
+"61g,01","2 Minuets (the second one is now K9 Anh.A 25, because it is actually by Michael Haydn)",Salzburg,,61g,,1769,1769,13,,,2025-09-05 20:46:27.448184+00,,61,0061,"0061|61g,01",96
+61h,6 Minuets,Salzburg,,61h,,1769,1769,13,,,2025-09-05 20:46:27.448184+00,,61,0061,0061|61h,97
+62,March in D,Salzburg,62,62,D Major,1769,Summer 1769,13,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,62,0062,0062|62,98
+63,Cassation in G,Salzburg,63,63,G Major,1769,Summer 1769,13,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,63,0063,0063|63,99
+65,Missa brevis in D minor,Salzburg,65,61a,D Minor,1769,14 January 1769,13,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,65,0065,0065|65,100
+65a,7 Minuets,Salzburg,,61b,,1769,26 January 1769,13,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,65,0065,0065|65a,101
+66,"Missa in C, ""Dominicus""",Salzburg,66,66,C Major,1769,October 1769,13,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,66,0066,0066|66,102
+66c,Symphony in D (lost),Salzburg?,Anh. 215,66c,D Major,1769,1769?,13,,,2025-09-05 20:46:27.448184+00,,66,0066,0066|66c,103
+66d,Symphony in B-flat (lost),Salzburg?,Anh. 217,66d,B Flat Major,1769,1769?,13,,,2025-09-05 20:46:27.448184+00,,66,0066,0066|66d,104
+66e,Symphony in B-flat (lost),Salzburg?,Anh. 218,66e,B Flat Major,1769,1769?,13,,,2025-09-05 20:46:27.448184+00,,66,0066,0066|66e,105
+67,Church Sonata No. 1 in E-flat,Salzburg,67,41h,E Flat Major,1771,1772?,15,Church Sonatas,Church Sonatas,2025-09-05 20:46:27.448184+00,,67,0067,0067|67,106
+68,Church Sonata No. 2 in B-flat,Salzburg,68,41i,B Flat Major,1771,1772?,15,Church Sonatas,Church Sonatas,2025-09-05 20:46:27.448184+00,,68,0068,0068|68,107
+69,Church Sonata No. 3 in D,Salzburg,69,41k,D Major,1771,1772?,15,Church Sonatas,Church Sonatas,2025-09-05 20:46:27.448184+00,,69,0069,0069|69,108
+70,"Recitative and Aria for Soprano, ""A Berenice""",Salzburg,70,61c,,1769,28 February 1767 and 1769,13,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,70,0070,0070|70,109
+71,"Aria for Tenor ""Ah più tremar non voglio"" in F (fragment)",Salzburg,71,71,F Major,1770,1769 or early 1770,14,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,71,0071,0071|71,110
+72,"Offertory in G, ""Inter natos mulierum""",Salzburg,72,74f,G Major,1770,May or June 1771,14,Sacred Works,Smaller Church Works,2025-09-05 20:46:28.676547+00,,72,0072,0072|72,111
+72a,Molto Allegro in G (fragment),Verona,72a,72a,G Major,1770,6 January 1770,14,Piano Music,Piano Pieces,2025-09-05 20:46:28.676547+00,,72,0072,0072|72a,112
+72b,"Aria ""Misero tu non sei""",Salzburg,Anh. 2,72b,,1770,26 January 1770,14,,,2025-09-05 20:46:28.676547+00,,72,0072,0072|72b,113
+73,Symphony No. 9 in C,Salzburg,73 (K3 75a),73,C Major,1769,1769 or Spring 1770,13,Orchestral Music,Symphonies,2025-09-05 20:46:28.676547+00,,73,0073,0073|73,114
+73D,"Aria for Soprano, ""Per quel paterno amplesso""",Milan,,73D,,1766,1766,10,,,2025-09-05 20:46:28.676547+00,,73,0073,0073|73D,115
+73w,Thema for Harpsichord,Verona,,,G Major,1770,,14,Piano Music,Piano Pieces,2025-09-05 20:46:28.676547+00,,73,0073,0073|73w,116
+74,Symphony No. 10 in G,Milan,74,74,G Major,1770,Spring 1770,14,Orchestral Music,Symphonies,2025-09-05 20:46:28.676547+00,,74,0074,0074|74,117
+74b,"Aria for Soprano, ""Non curo l'affetto""",Milan or Pavia,,74b,,1771,early 1771,15,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:28.676547+00,,74,0074,0074|74b,118
+74g,Symphony No. 54 in B-flat (doubtful),Salzburg,Anh. 216; K3 74g,Anh. C 11.03,B Flat Major,1771,1771,15,,,2025-09-05 20:46:28.676547+00,,74,0074,0074|74g,119
+75,Symphony No. 42 in F (doubtful),Salzburg,75,75,F Major,1771,Spring 1771,15,Orchestral Music,Symphonies,2025-09-05 20:46:28.676547+00,,75,0075,0075|75,120
+76,Symphony No. 43 in F (doubtful),Vienna,76,42a,F Major,1767,1767,11,Orchestral Music,Symphonies,2025-09-05 20:46:28.676547+00,,76,0076,0076|76,121
+77,"Recitative and Aria for Soprano, ""Misero me...Misero pargoletto""",Milan,77,73e,,1770,March 1770,14,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:28.676547+00,,77,0077,0077|77,122
+78,"Aria for Soprano, ""Per pietà, bell'idol mio""",Milan,78,73b,,1770,1766,14,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:28.676547+00,,78,0078,0078|78,123
+79,"Recitative and Aria for Soprano, ""O temerario Arbace""",Milan,79,73d,,1770,1766,14,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:28.676547+00,,79,0079,0079|79,124
+80,String Quartet No. 1 in G,Lodi,80,73f,G Major,1770,15 March 1770,14,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:28.676547+00,,80,0080,0080|80,125
+81,Symphony No. 44 in D (doubtful),Rome,81,73l,D Major,1770,April 1770,14,Orchestral Music,Symphonies,2025-09-05 20:46:28.676547+00,,81,0081,0081|81,126
+82,"Aria for Soprano, ""Se ardire, e speranza""",Rome,82,73o,,1770,25 April 1770,14,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:28.676547+00,,82,0082,0082|82,127
+83,"Aria for Soprano, ""Se tutti i mali miei""",Rome,83,73p,,1770,April - May 1770,14,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:28.676547+00,,83,0083,0083|83,128
+84,Symphony No. 11 in D (uncertain),Milan or Bologna,84,73q,D Major,1770,1770,14,Orchestral Music,Symphonies,2025-09-05 20:46:28.676547+00,,84,0084,0084|84,129
+85,Miserere in A minor,Bologna,85,73s,A Minor,1770,July - August 1770,14,Sacred Works,Smaller Church Works,2025-09-05 20:46:28.676547+00,,85,0085,0085|85,130
+86,"Antiphon ""Quaerite primum regnum Dei""",Bologna,,,,1770,,14,Sacred Works,Smaller Church Works,2025-09-05 20:46:28.676547+00,,86,0086,0086|86,131
+87,"Mitridate, re di Ponto",Bologna and Milan,87,74a,,1770,26 December 1770,14,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:28.676547+00,,87,0087,0087|87,132
+88,"Aria for Soprano, ""Fra cento affanni""",Milan,88,73c,,1770,February - March 1770,14,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:28.676547+00,,88,0088,0088|88,133
+089a/I,Canon for 4 Winds,Salzburg,,,A Major,1772,,16,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,89,0089,0089|089a/I,134
+089a/II,"4 Canons ""Puzzle""",Salzburg,,,,1772,,16,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,89,0089,0089|089a/II,135
+89,Kyrie in G for 5 voices in 1,Rome,89,73k,G Major,1772,1772,16,Vocal Music (smaller forms),Canons,2025-09-05 20:46:28.676547+00,,89,0089,0089|89,136
+90,Kyrie in D minor (doubtful),Salzburg,90,90,D Minor,1771,1771-1772,15,Sacred Works,Masses and Requiem,2025-09-05 20:46:28.676547+00,,90,0090,0090|90,137
+94,Minuet for Harpsichord,Salzburg,,,D Major,1769,,13,Piano Music,Piano Pieces,2025-09-05 20:46:28.676547+00,,94,0094,0094|94,138
+95,Symphony No. 45 in D (doubtful),Rome,95,73n,D Major,1770,April 1770,14,Orchestral Music,Symphonies,2025-09-05 20:46:28.676547+00,,95,0095,0095|95,139
+96,Symphony No. 46 in C (doubtful),Milan,96,111b,C Major,1771,October/November 1771,15,Orchestral Music,Symphonies,2025-09-05 20:46:28.676547+00,,96,0096,0096|96,140
+97,Symphony No. 47 in D (doubtful),Rome,97,73m,D Major,1770,April 1770,14,Orchestral Music,Symphonies,2025-09-05 20:46:28.676547+00,,97,0097,0097|97,141
+99,Cassation in B-flat,Salzburg,99,63a,B Flat Major,1769,Summer 1769,13,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:28.676547+00,,99,0099,0099|99,142
+100,Cassation in D (Serenade No. 1),Salzburg,100,62a,D Major,1769,Summer 1769,13,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,100,0100,0100|100,143
+101,4 Contradanses,Salzburg,,,F Major,1776,,20,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,101,0101,0101|101,144
+102,Finale of a Symphony,Salzburg,,,C Major,1775,,19,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,102,0102,0102|102,145
+103,20 Minuets (I. Zwölf Menuette in der Ordnung letzter Hand; II. Acht Menuette aus der ursprünglichen Reihe),Salzburg,103,61d,,1772,1771-72,16,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,103,0103,0103|103,146
+104,6 Minuets for Orchestra,Salzburg,,,,1771,,15,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,104,0104,0104|104,147
+105,6 Minuets for Orchestra,Salzburg,,,,1771,,15,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,105,0105,0105|105,148
+106,Overture and 3 Contredanses (doubtful),Vienna,106,588a,,1790,January 1790,34,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,106,0106,0106|106,149
+107,3 concertos after J.C. Bach,Salzburg,,,,1772,,16,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,107,0107,0107|107,150
+108,Regina Coeli in C,Salzburg,108,74d,C Major,1771,May 1771,15,Sacred Works,Smaller Church Works,2025-09-05 20:46:27.448184+00,,108,0108,0108|108,151
+109,Litaniae Lauretanae B.M.V. in B-flat,Salzburg,109,74e,B Flat Major,1771,May 1771,15,Sacred Works,Litanies and Vespers,2025-09-05 20:46:27.448184+00,,109,0109,0109|109,152
+110,Symphony No. 12 in G,Salzburg,110,75b,G Major,1771,July 1771,15,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,110,0110,0110|110,153
+111,Finale of Symphony No. 48 in D (Ascanio in Alba),Milan,120,111a,D Major,1771,August 1771,15,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,111,0111,0111|111,154
+111,Ascanio in Alba,Milan,111,111,,1771,17 October 1771,15,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,111,0111,0111|111,155
+112,Symphony No. 13 in F,Milan,112,112,F Major,1771,2 November 1771,15,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,112,0112,0112|112,156
+113,Divertimento No. 1 in E-flat,Milan,113,113,E Flat Major,1771,November 1771,15,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,113,0113,0113|113,157
+114,Symphony No. 14 in A,Salzburg,114,114,A Major,1771,30 December 1771,15,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,114,0114,0114|114,158
+117,Offertory (pro omni tempore) in C,Salzburg,117,66a,C Major,1769,September or October 1769,13,Sacred Works,Smaller Church Works,2025-09-05 20:46:27.448184+00,,117,0117,0117|117,159
+118,Betulia liberata,Italy and Salzburg,118,74c,,1771,March - July 1771,15,Sacred Works,"Oratorios, Sacred Singspiels and Cantatas",2025-09-05 20:46:27.448184+00,,118,0118,0118|118,160
+119,"Aria for Soprano, ""Der Liebe himmlisches Gefühl"" (doubtful)",Vienna,119,382h,,1782,1782,26,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,119,0119,0119|119,161
+120,Finale of a Symphony (Ascanio in Alba),Milan,,,D Major,1771,,15,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,120,0120,0120|120,162
+121,Finale of a Symphony (La Finta Giardiniera),Salzburg,,,D Major,1775,,19,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,121,0121,0121|121,163
+122,Minuet for Orchestra,Rome,,,E Flat Major,1770,,14,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,122,0122,0122|122,164
+123,Contredanse in B-flat,Rome,123,73g,B Flat Major,1770,13-14 April 1770,14,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,123,0123,0123|123,165
+124,Symphony No. 15 in G,Salzburg,124,124,G Major,1772,21 February 1772,16,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,124,0124,0124|124,166
+125,Litaniae de venerabili altaris sacramento in B-flat,Salzburg,125,125,B Flat Major,1772,March 1772,16,Sacred Works,Litanies and Vespers,2025-09-05 20:46:27.448184+00,,125,0125,0125|125,167
+126,Il sogno di Scipione,Salzburg,126,126,,1771,May 1772,15,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,126,0126,0126|126,168
+126,Symphony No. 50 in D,Salzburg,161/163,141a,D Major,1771,March 1772 - late 1772,15,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,126,0126,0126|126,169
+127,Regina coeli in B-flat,Salzburg,127,127,B Flat Major,1772,May 1772,16,Sacred Works,Smaller Church Works,2025-09-05 20:46:27.448184+00,,127,0127,0127|127,170
+128,Symphony No. 16 in C,Salzburg,128,128,C Major,1772,May 1772,16,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,128,0128,0128|128,171
+129,Symphony No. 17 in G,Salzburg,129,129,G Major,1772,May 1772,16,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,129,0129,0129|129,172
+130,Symphony No. 18 in F,Salzburg,130,130,F Major,1772,May 1772,16,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,130,0130,0130|130,173
+131,Divertimento No. 2 in D,Salzburg,131,131,D Major,1772,June 1772,16,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,131,0131,0131|131,174
+132,Symphony No. 19 in E-flat,Salzburg,132,132,E Flat Major,1772,July 1772,16,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,132,0132,0132|132,175
+133,Symphony No. 20 in D,Salzburg,133,133,D Major,1772,July 1772,16,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,133,0133,0133|133,176
+134,Symphony No. 21 in A,Salzburg,134,134,A Major,1772,August 1772,16,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,134,0134,0134|134,177
+135,Lucio Silla,Salzburg and Milan,135,135,,1772,26 December 1772,16,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,135,0135,0135|135,178
+136,"Divertimento in D ""Salzburg Symphony No. 1""",Salzburg,136,125a,D Major,1772,early 1772,16,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,136,0136,0136|136,179
+137,"Divertimento in B-flat, ""Salzburg Symphony No. 2""",Salzburg,137,125b,B Flat Major,1772,early 1772,16,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,137,0137,0137|137,180
+138,"Divertimento in F, ""Salzburg Symphony No. 3""",Salzburg,138,125c,F Major,1772,early 1772,16,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,138,0138,0138|138,181
+139,"Missa solemnis in C minor, ""Waisenhaus""",Vienna,139,47a,C Minor,1768,1768 - mid-1769,12,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,139,0139,0139|139,182
+140,Missa brevis in G (doubtful),Salzburg,140,Anh. C 1.12,G Major,1773,1773,17,,,2025-09-05 20:46:27.448184+00,,140,0140,0140|140,183
+141,Te Deum in C,Salzburg,141,66b,C Major,1769,End of 1769,13,Sacred Works,Smaller Church Works,2025-09-05 20:46:27.448184+00,,141,0141,0141|141,184
+142,"""Tantum ergo"" in B-flat major (doubtful)",,142,Anh. C 3.04,B Flat Major,,Mozart's authorship doubtful,,,,2025-09-05 20:46:27.448184+00,,142,0142,0142|142,185
+143,"Motet for Soprano in G, ""Ergo interest"" (doubtful)",Salzburg,143,73a,G Major,1770,early February 1773,14,Sacred Works,Smaller Church Works,2025-09-05 20:46:27.448184+00,,143,0143,0143|143,186
+144,Church Sonata No. 4 in D,Salzburg,144,124a,D Major,1774,1774,18,Church Sonatas,Church Sonatas,2025-09-05 20:46:27.448184+00,,144,0144,0144|144,187
+145,Church Sonata No. 5 in F,Salzburg,145,124b,F Major,1774,1774,18,Church Sonatas,Church Sonatas,2025-09-05 20:46:27.448184+00,,145,0145,0145|145,188
+146,"Aria for Soprano in B-flat, ""Kommet her, ihr frechen Sünder""",Salzburg,146,317b,B Flat Major,1779,March or April 1779,23,Sacred Works,"Oratorios, Sacred Singspiels and Cantatas",2025-09-05 20:46:27.448184+00,,146,0146,0146|146,189
+147,"Song, ""Wie unglücklich bin ich nit""",Salzburg,147,125g,,1772,1772,16,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,147,0147,0147|147,190
+148,"Song, ""Lobegesang auf die feierliche Johannisloge""",Salzburg,148,125h,,1772,1772,16,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,148,0148,0148|148,191
+152,"Canzonetta ""Ridente la calma""",Salzburg,,,,1775,,19,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,152,0152,0152|152,192
+153,Fugue for Piano (Fragment),Vienna,,,E Flat Major,1782,,26,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,153,0153,0153|153,193
+154,Fugue for Piano (Fragment),Vienna,,,G Minor,1782,,26,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,154,0154,0154|154,194
+154a,2 little Fugues for Organ,Salzburg,,,,1772,,16,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,154,0154,0154|154a,195
+155,String Quartet No. 2 in D,Bozen and Verona,155,134a,D Major,1772,October - November 1772,16,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,155,0155,0155|155,196
+156,String Quartet No. 3 in G,Milan,156,134b,G Major,1772,End of 1772,16,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,156,0156,0156|156,197
+157,String Quartet No. 4 in C,Milan,157,157,C Major,1772,End of 1772 - early 1773,16,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,157,0157,0157|157,198
+158,String Quartet No. 5 in F,Milan,158,158,F Major,1773,End of 1772 - early 1773,17,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,158,0158,0158|158,199
+159,String Quartet No. 6 in B-flat,Milan,159,159,B Flat Major,1773,early 1773,17,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,159,0159,0159|159,200
+160,String Quartet No. 7 in E-flat,Milan,160,159a,E Flat Major,1773,early 1773,17,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,160,0160,0160|160,201
+161,Symphony (Overture to K. 126),Salzburg,,,D Major,1772,,16,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,161,0161,0161|161,202
+162,Symphony No. 22 in C,Salzburg,162,162,C Major,1773,19 April 1773,17,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,162,0162,0162|162,203
+163,Finale of the Symphony K. 161,Salzburg,,,D Major,1773,,17,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,163,0163,0163|163,204
+164,6 Minuets,Salzburg,164,130a,,1772,June 1772,16,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,164,0164,0164|164,205
+165,"Motet in F for Soprano, ""Exsultate, jubilate""",Milan,165,158a,F Major,1773,January 1773,17,Sacred Works,Smaller Church Works,2025-09-05 20:46:27.448184+00,,165,0165,0165|165,206
+166,Divertimento No. 3 in E-flat,Salzburg,166,159d,E Flat Major,1773,24 March 1773,17,Divertimenti/Serenades,Divertimenti and serenades for wind instruments,2025-09-05 20:46:27.448184+00,,166,0166,0166|166,207
+166f,Kyrie in C (fragment),Salzburg,Anh. 18,166f,C Major,1772,1772,16,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,166,0166,0166|166f,208
+166g,Kyrie in D (fragment),Salzburg,Anh. 19,166g,D Major,1773,1772,17,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,166,0166,0166|166g,209
+167,"Missa in C, ""Trinitatis""",Salzburg,167,167,C Major,1773,June 1773,17,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,167,0167,0167|167,210
+168,String Quartet No. 8 in F,Vienna,168,168,F Major,1773,August 1773,17,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,168,0168,0168|168,211
+168a,Minuet for a String Quartet in F,Vienna,,168a,F Major,1773,August 1773,17,,,2025-09-05 20:46:27.448184+00,,168,0168,0168|168a,212
+169,String Quartet No. 9 in A,Vienna,169,169,A Major,1773,August 1773,17,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,169,0169,0169|169,213
+170,String Quartet No. 10 in C,Vienna,170,170,C Major,1773,August 1773,17,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,170,0170,0170|170,214
+171,String Quartet No. 11 in E-flat,Vienna,171,171,E Flat Major,1773,August 1773,17,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,171,0171,0171|171,215
+172,String Quartet No. 12 in B-flat,Vienna,172,172,B Flat Major,1773,September 1773,17,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,172,0172,0172|172,216
+173,String Quartet No. 13 in D minor,Vienna,173,173,D Minor,1773,September 1773,17,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,173,0173,0173|173,217
+174,String Quintet No. 1 in B-flat,Salzburg,174,174,B Flat Major,1773,December 1773,17,Chamber Music,String quintets and quintets with winds,2025-09-05 20:46:27.448184+00,,174,0174,0174|174,218
+175,Piano Concerto No. 5 in D,Salzburg,175,175,D Major,1773,December 1773,17,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,175,0175,0175|175,219
+176,16 Minuets,Salzburg,176,176,,1773,December 1773,17,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,176,0176,0176|176,220
+178,"Aria for Soprano, ""Ah, spiegarti, oh Dio""",Vienna?,178,417e,,1783,c. June 1783,27,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,178,0178,0178|178,221
+179,12 Variations in C on a Minuet by Fischer,Salzburg,179,189a,C Major,1774,6 December 1774,18,Piano Music,Variations for Piano,2025-09-05 20:46:27.448184+00,,179,0179,0179|179,222
+180,"6 Variations in G on ""Mio caro Adone"" from La fiera di Venezia by Antonio Salieri",Vienna,180,173c,G Major,1773,Autumn 1773,17,Piano Music,Variations for Piano,2025-09-05 20:46:27.448184+00,,180,0180,0180|180,223
+181,Symphony No. 23 in D,Salzburg,181,162b,D Major,1773,19 May 1773,17,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,181,0181,0181|181,224
+182,Symphony No. 24 in B-flat,Salzburg,182,173dA,B Flat Major,1773,3 October 1773,17,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,182,0182,0182|182,225
+183,"Symphony No. 25 in G minor, ""Little G minor Symphony""",Salzburg,183,173dB,G Minor,1773,5 October 1773,17,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,183,0183,0183|183,226
+184,Symphony No. 26 in E-flat,Salzburg,184,161a,E Flat Major,1773,30 March 1773,17,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,184,0184,0184|184,227
+185,"Serenade No. 3 in D, ""Antretter""[4]",Vienna,185,167a,D Major,1773,July and August 1773,17,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,185,0185,0185|185,228
+186,Divertimento No. 4 in B-flat,Milan or Salzburg,186,159b,B Flat Major,1773,March 1773,17,Divertimenti/Serenades,Divertimenti and serenades for wind instruments,2025-09-05 20:46:27.448184+00,,186,0186,0186|186,229
+188,Divertimento No. 6 in C,Salzburg,188,240b,C Major,1773,Mid 1773,17,Divertimenti/Serenades,Divertimenti and serenades for wind instruments,2025-09-05 20:46:27.448184+00,,188,0188,0188|188,230
+189,March in D,Vienna,189,167b,D Major,1773,July and August 1773,17,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,189,0189,0189|189,231
+190,Concertone for two Violins and Orchestra in C,Salzburg,190,186E,C Major,1774,31 May 1774,18,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,190,0190,0190|190,232
+191,Bassoon Concerto in B-flat,Salzburg,191,186e,B Flat Major,1774,4 June 1774,18,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,191,0191,0191|191,233
+192,Missa Brevis in F,Salzburg,192,186f,F Major,1774,24 June 1774,18,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,192,0192,0192|192,234
+193,"Dixit Dominus, Magnificat in C",Salzburg,193,186g,C Major,1774,July 1774,18,Sacred Works,Litanies and Vespers,2025-09-05 20:46:27.448184+00,,193,0193,0193|193,235
+194,Missa brevis in D,Salzburg,194,186h,D Major,1774,8 August 1774,18,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,194,0194,0194|194,236
+195,Litaniae Lauretanae BMV in D,Salzburg,195,186d,D Major,1774,May 1774,18,Sacred Works,Litanies and Vespers,2025-09-05 20:46:27.448184+00,,195,0195,0195|195,237
+196,Finale of Symphony No. 51 in D (La finta giardiniera),Salzburg,121,207a,D Major,1775,End of 1774 - early 1775,19,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,196,0196,0196|196,238
+196,La finta giardiniera,Salzburg,196,196,,1775,13 January 1775,19,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,196,0196,0196|196,239
+196a,Kyrie in G (fragment),Munich,Anh. 16,196a,G Major,1787,1787-1789,31,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,196,0196,0196|196a,240
+196e,Divertimento in E-flat for winds (doubtful),,Anh. 226,Anh. C 17.01,E Flat Major,,,,,,2025-09-05 20:46:27.448184+00,,196,0196,0196|196e,241
+196f,Divertimento in B-flat for winds (doubtful),,Anh. 227,Anh. C 17.02,B Flat Major,,,,,,2025-09-05 20:46:27.448184+00,,196,0196,0196|196f,242
+196g,Allegro for Winds (in conjunction with K. 384b),Vienna,Anh. 96,384c,B Flat Major,1782,July 1782,26,Divertimenti/Serenades,Divertimenti and serenades for wind instruments,2025-09-05 20:46:27.448184+00,,196,0196,0196|196g,243
+197,"""Tantum ergo"" in D major (doubtful)",,197,Anh. C 3.05,G Major,1772,Mozart's authorship doubtful,16,Sacred Works,Smaller Church Works,2025-09-05 20:46:27.448184+00,,197,0197,0197|197,244
+198,"Offertorium ""Sub tuum praesidium"" (doubtful)",Salzburg,198,Anh. C 3.08,F Major,1773,1773,17,Sacred Works,Smaller Church Works,2025-09-05 20:46:27.448184+00,,198,0198,0198|198,245
+199,Symphony No. 27 in G,Salzburg,199,161b,G Major,1773,10? April 1773,17,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,199,0199,0199|199,246
+200,Symphony No. 28 in C,Salzburg,200,189k,C Major,1773,17? November 1773 or 1774,17,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,200,0200,0200|200,247
+201,Symphony No. 29 in A,Salzburg,201,186a,A Major,1774,6 April 1774,18,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,201,0201,0201|201,248
+202,Symphony No. 30 in D,Salzburg,202,186b,D Major,1774,5 May 1774,18,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,202,0202,0202|202,249
+203,"Serenade No. 4 in D, ""Colloredo""",Salzburg,203,189b,D Major,1774,Summer 1774,18,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,203,0203,0203|203,250
+204,Serenade No. 5 in D,Salzburg,204,213a,D Major,1775,5 August 1775,19,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,204,0204,0204|204,251
+205,Divertimento No. 7 in D,Vienna,205,167A,D Major,1773,July 1773,17,Divertimenti/Serenades,Divertimenti for string and wind instruments,2025-09-05 20:46:27.448184+00,,205,0205,0205|205,252
+206,March for Idomeneo,Salzburg,,,D Major,1775,,19,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,206,0206,0206|206,253
+206a,Cello Concerto in F (lost),Munich,,206a,F Major,1775,March 1775,19,,,2025-09-05 20:46:27.448184+00,,206,0206,0206|206a,254
+207,Violin Concerto No. 1 in B-flat,Salzburg,207,207,B Flat Major,1773,Spring 1773,17,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,207,0207,0207|207,255
+208,Finale of a Symphony No. 52 in C (Il re pastore),Salzburg,102,213c,C Major,1775,23 April 1775 - end of 1775,19,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,208,0208,0208|208,256
+208,Il re pastore,Salzburg,208,208,,1775,23 April 1775,19,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,208,0208,0208|208,257
+209,"Aria for Tenor, ""Si mostra la sorte""",Salzburg,209,209,,1775,19 May 1775,19,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,209,0209,0209|209,258
+209a,"Aria for Bass, ""Un dente guasto e gelato"" in D (fragment)",Salzburg,,209a,D Major,1775,1775,19,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,209,0209,0209|209a,259
+210,"Aria for Tenor, ""Con ossequio, con rispetto""",Salzburg,210,210,,1775,May 1775,19,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,210,0210,0210|210,260
+211,Violin Concerto No. 2 in D,Salzburg,211,211,D Major,1775,14 June 1775,19,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,211,0211,0211|211,261
+212,Church Sonata No. 6 in B-flat,Salzburg,212,212,B Flat Major,1775,July 1775,19,Church Sonatas,Church Sonatas,2025-09-05 20:46:27.448184+00,,212,0212,0212|212,262
+213,Divertimento No. 8 in F,Salzburg,213,213,F Major,1775,July 1775,19,Divertimenti/Serenades,Divertimenti and serenades for wind instruments,2025-09-05 20:46:27.448184+00,,213,0213,0213|213,263
+214,"March in C, ""Il re pastore""",Salzburg,214,214,C Major,1775,20 August 1775,19,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,214,0214,0214|214,264
+215,March in D,Salzburg,215,213b,D Major,1775,August 1775,19,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,215,0215,0215|215,265
+216,"Violin Concerto No. 3 in G, ""Straßburg""",Salzburg,216,216,G Major,1775,12 September 1775,19,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,216,0216,0216|216,266
+217,"Aria for Soprano, ""Voi avete un cor fedele""",Salzburg,217,217,,1775,26 October 1775,19,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,217,0217,0217|217,267
+218,Violin Concerto No. 4 in D,Salzburg,218,218,D Major,1775,October 1775,19,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,218,0218,0218|218,268
+219,"Violin Concerto No. 5 in A, ""Turkish""",Salzburg,219,219,A Major,1775,20 December 1775,19,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,219,0219,0219|219,269
+220,"Missa brevis in C, ""Spatzen""",Munich,220,196b,C Major,1775,1775 or 1776,19,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,220,0220,0220|220,270
+222,"Offertory in D minor, ""Misericordias Domini""",Munich,222,205a,D Minor,1775,January or February 1775,19,Sacred Works,Smaller Church Works,2025-09-05 20:46:27.448184+00,,222,0222,0222|222,271
+223,Ossana,Salzburg,,,G Major,1772,,16,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,223,0223,0223|223,272
+224,Church Sonata No. 7 in F,Salzburg,224,241a,F Major,1779,early 1776?,23,Church Sonatas,Church Sonatas,2025-09-05 20:46:27.448184+00,,224,0224,0224|224,273
+225,Church Sonata No. 8 in A,Salzburg,225,241b,A Major,1779,early 1776?,23,Church Sonatas,Church Sonatas,2025-09-05 20:46:27.448184+00,,225,0225,0225|225,274
+228,Double Canon in F for 4 voices in 2,Vienna,228,515b,F Major,1787,24 April 1787,31,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,228,0228,0228|228,275
+229,"Canon ""Sie ist dahin""",Vienna,,,,1782,,26,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,229,0229,0229|229,276
+230,"Canon ""Selig, selig alle""",Vienna,,,,1782,,26,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,230,0230,0230|230,277
+231,"Canon in B-flat for 6 voices in 1, ""Leck mich im Arsch"" (doubtful)",Vienna,231,382c,B Flat Major,1782,1782,26,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,231,0231,0231|231,278
+232,"Canon in G for 4 voices in 1, ""Lieber Freistadtler, lieber Gaulimauli""",Vienna,232,509a,G Major,1787,After 4 July 1787,31,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,232,0232,0232|232,279
+236,"Andantino for Piano on ""Non vi turbare, no"" by Gluck",Vienna,,,E Flat Major,1781,,25,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,236,0236,0236|236,280
+237,March in D,Salzburg,237,189c,D Major,1774,Summer 1774,18,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,237,0237,0237|237,281
+238,Piano Concerto No. 6 in B-flat,Salzburg,238,238,B Flat Major,1776,January 1776,20,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,238,0238,0238|238,282
+239,"Serenade No. 6 in D, ""Serenata notturna""",Salzburg,239,239,D Major,1776,January 1776,20,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,239,0239,0239|239,283
+240,Divertimento No. 9 in B-flat,Salzburg,240,240,B Flat Major,1776,January 1776,20,Divertimenti/Serenades,Divertimenti and serenades for wind instruments,2025-09-05 20:46:27.448184+00,,240,0240,0240|240,284
+241,Church Sonata No. 9 in G,Salzburg,241,241,G Major,1776,January 1776,20,Church Sonatas,Church Sonatas,2025-09-05 20:46:27.448184+00,,241,0241,0241|241,285
+242,"Concerto in F for three (or two) Pianos, No. 7, ""Lodron""",Salzburg,242,242,F Major,1776,February 1776,20,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,242,0242,0242|242,286
+243,Litaniae de venerabili altaris sacramento in E-flat,Salzburg,243,243,E Flat Major,1776,March 1776,20,Sacred Works,Litanies and Vespers,2025-09-05 20:46:27.448184+00,,243,0243,0243|243,287
+244,Church Sonata No. 10 in F,Salzburg,244,244,F Major,1776,April 1776,20,Church Sonatas,Church Sonatas,2025-09-05 20:46:27.448184+00,,244,0244,0244|244,288
+245,Church Sonata No. 11 in D,Salzburg,245,245,D Major,1776,April 1776,20,Church Sonatas,Church Sonatas,2025-09-05 20:46:27.448184+00,,245,0245,0245|245,289
+246,"Piano Concerto No. 8 in C, ""Lützow""",Salzburg,246,246,C Major,1776,April 1776,20,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,246,0246,0246|246,290
+246b,Divertimento in D (fragment),,246b,320B,D Major,1776,1772/1773,20,Divertimenti/Serenades,Divertimenti for string and wind instruments,2025-09-05 20:46:27.448184+00,,246,0246,0246|246b,291
+247,"Divertimento No. 10 in F, ""Lodron No. 1"" (""Lodronische Nachtmusik"")",Salzburg,247,247,F Major,1776,June 1776,20,Divertimenti/Serenades,Divertimenti for string and wind instruments,2025-09-05 20:46:27.448184+00,,247,0247,0247|247,292
+248,March in F,Salzburg,248,248,F Major,1776,June 1776,20,Divertimenti/Serenades,Divertimenti for string and wind instruments,2025-09-05 20:46:27.448184+00,,248,0248,0248|248,293
+249,"March in D, ""Haffner""",Salzburg,249,249,D Major,1776,20 July 1776,20,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,249,0249,0249|249,294
+250,"Serenade No. 7 in D, ""Haffner""",Salzburg,250,248b,D Major,1776,21 July 1776,20,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,250,0250,0250|250,295
+251,Divertimento No. 11 in D,Salzburg,251,251,D Major,1776,July 1776,20,Divertimenti/Serenades,Divertimenti for string and wind instruments,2025-09-05 20:46:27.448184+00,,251,0251,0251|251,296
+252,Divertimento No. 12 in E-flat,Salzburg,252,240a,E Flat Major,1776,January and August 1776,20,Divertimenti/Serenades,Divertimenti and serenades for wind instruments,2025-09-05 20:46:27.448184+00,,252,0252,0252|252,297
+253,Divertimento No. 13 in F,Salzburg,253,253,F Major,1776,August 1776,20,Divertimenti/Serenades,Divertimenti and serenades for wind instruments,2025-09-05 20:46:27.448184+00,,253,0253,0253|253,298
+254,Piano Trio No. 1 in B-flat (Divertimento),Salzburg,254,254,B Flat Major,1776,August 1776,20,Chamber Music,"Quintets, quartets and trios with piano",2025-09-05 20:46:27.448184+00,,254,0254,0254|254,299
+255,"Recitative and Aria for Alto, ""Ombra felice""",Salzburg,255,255,,1776,September 1776,20,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,255,0255,0255|255,300
+256,"Aria for Tenor, ""Clarice cara mia sposa""",Salzburg,256,256,,1776,September 1776,20,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,256,0256,0256|256,301
+257,"Missa in C, ""Credo"" or ""Spaur""",Salzburg,257,257,C Major,1776,1775 and 1777,20,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,257,0257,0257|257,302
+258,"Missa brevis in C, ""Piccolomini"", formerly misidentified as ""Spaur""",Salzburg,258,258,C Major,1775,1775-1777,19,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,258,0258,0258|258,303
+258a,Kyrie in C (fragment),Vienna?,Anh. 13,258a,C Major,1772,1787-1791,16,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,258,0258,0258|258a,304
+259,"Missa brevis in C, ""Organ Solo""",Salzburg,259,259,C Major,1787,1775-1777,31,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,259,0259,0259|259,305
+260,"Offertory in D, ""Venite populi""",Salzburg,260,248a,D Major,1776,June 1776,20,Sacred Works,Smaller Church Works,2025-09-05 20:46:27.448184+00,,260,0260,0260|260,306
+261,Adagio in E for Violin and Orchestra,Salzburg,261,261,E Major,1776,1776,20,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,261,0261,0261|261,307
+262,Missa longa in C,Salzburg,262,246a,C Major,1775,1776,19,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,262,0262,0262|262,308
+263,Church Sonata No. 12 in C,Salzburg,263,263,C Major,1776,December 1776,20,Church Sonatas,Church Sonatas,2025-09-05 20:46:27.448184+00,,263,0263,0263|263,309
+264,"9 Variations in C on ""Lison dormait""",Paris,264,315d,C Major,1781,late August or September 1778,25,Piano Music,Variations for Piano,2025-09-05 20:46:27.448184+00,,264,0264,0264|264,310
+265,"Twelve Variations on ""Ah vous dirai-je, Maman""",Vienna,265,300e,,1781,1781/1782,25,Piano Music,Variations for Piano,2025-09-05 20:46:27.448184+00,,265,0265,0265|265,311
+266,Trio in B-flat,Salzburg,266,271f,B Flat Major,1777,Spring 1777,21,Chamber Music,Duos and Trios for Strings and Winds,2025-09-05 20:46:27.448184+00,,266,0266,0266|266,312
+267,4 Contredanses,Salzburg,267,271c,,1777,1777,21,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,267,0267,0267|267,313
+269,Rondo in B-flat for Violin and Orchestra,Salzburg,269,261a,B Flat Major,1776,1775-1777,20,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,269,0269,0269|269,314
+269b,4 Contredanse for Czernin,Salzburg,,,,1777,,21,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,269,0269,0269|269b,315
+270,Divertimento No. 14 in B-flat,Salzburg,270,270,B Flat Major,1777,January 1777,21,Divertimenti/Serenades,Divertimenti and serenades for wind instruments,2025-09-05 20:46:27.448184+00,,270,0270,0270|270,316
+271,"Piano Concerto No. 9 in E-flat, ""Jeunehomme""",Salzburg,271,271,E Flat Major,1777,January 1777,21,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,271,0271,0271|271,317
+271a,"Violin Concerto ""No. 7"" in D (possibly authentic; doubtful)",Salzburg or Paris?,271a,271i,D Major,1777,16 July 1777,21,,,2025-09-05 20:46:27.448184+00,,271,0271,0271|271a,318
+272,"Recitative and Aria for Soprano, ""Ah, lo previdi""",Salzburg,272,272,,1777,August 1777,21,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,272,0272,0272|272,319
+273,"Hymn in F, ""Sancta Maria, mater Dei""",Salzburg,273,273,F Major,1777,9 September 1777,21,Sacred Works,Smaller Church Works,2025-09-05 20:46:27.448184+00,,273,0273,0273|273,320
+274,Church Sonata No. 13 in G,Salzburg,274,271d,G Major,1777,1777,21,Church Sonatas,Church Sonatas,2025-09-05 20:46:27.448184+00,,274,0274,0274|274,321
+275,Missa brevis in B-flat,Salzburg,275,272b,B Flat Major,1777,23 September 1777,21,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,275,0275,0275|275,322
+276,Regina Coeli in C,Salzburg,276,321b,C Major,1779,1779,23,Sacred Works,Smaller Church Works,2025-09-05 20:46:27.448184+00,,276,0276,0276|276,323
+277,"Offertory in F, ""Alma Dei creatoris""",Salzburg,277,272a,F Major,1777,Summer or Autumn 1777,21,Sacred Works,Smaller Church Works,2025-09-05 20:46:27.448184+00,,277,0277,0277|277,324
+278,Church Sonata No. 14 in C,Salzburg,278,271e,C Major,1777,March - April 1777,21,Church Sonatas,Church Sonatas,2025-09-05 20:46:27.448184+00,,278,0278,0278|278,325
+279,Piano Sonata No. 1 in C,Munich,279,189d,C Major,1775,early 1775,19,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,279,0279,0279|279,326
+280,Piano Sonata No. 2 in F,Munich,280,189e,F Major,1775,early 1775,19,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,280,0280,0280|280,327
+281,Piano Sonata No. 3 in B-flat,Munich,281,189f,B Flat Major,1775,early 1775,19,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,281,0281,0281|281,328
+282,Piano Sonata No. 4 in E-flat,Munich,282,189g,E Flat Major,1775,early 1775,19,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,282,0282,0282|282,329
+283,Piano Sonata No. 5 in G,Munich,283,189h,G Major,1775,early 1775,19,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,283,0283,0283|283,330
+284,"Piano Sonata No. 6 in D, ""Dürnitz""",Munich,284,205b,D Major,1775,early 1775,19,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,284,0284,0284|284,331
+284a,Prelude & Capriccio for Piano,Munich,,,C Major,1777,,21,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,284,0284,0284|284a,332
+284f,Rondeau for Piano (lost),Munich,,284f,,1777,28/29 November 1777,21,,,2025-09-05 20:46:27.448184+00,,284,0284,0284|284f,333
+285,Flute Quartet No. 1 in D,Mannheim,285,285,D Major,1777,25 December 1777,21,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,285,0285,0285|285,334
+285a,Flute Quartet No. 2 in G (doubtful),Mannheim,,285a,G Major,1778,25 December 1777 and 14 February 1778,22,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,285,0285,0285|285a,335
+285b,Flute Quartet No. 3 in C,Vienna,Anh. 171,285b,C Major,1778,1781-1782,22,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,285,0285,0285|285b,336
+286,Notturno in D for Four Orchestras (Serenade No. 8),Salzburg,286,269a,D Major,1776,December 1776 or January 1777,20,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,286,0286,0286|286,337
+287,"Divertimento No. 15 in B-flat major, ""Lodron No. 2"" (""Lodronische Nachtmusik"")",Salzburg,287,271H,B Flat Major,1777,June 1777,21,Divertimenti/Serenades,Divertimenti for string and wind instruments,2025-09-05 20:46:27.448184+00,,287,0287,0287|287,338
+288,Divertimento in F (fragment),Salzburg,288,246c,F Major,1776,Summer 1776,20,Divertimenti/Serenades,Divertimenti for string and wind instruments,2025-09-05 20:46:27.448184+00,,288,0288,0288|288,339
+289,Divertimento No. 16 in E-flat (doubtful),Salzburg,289,271g,E Flat Major,1777,1777,21,,,2025-09-05 20:46:27.448184+00,,289,0289,0289|289,340
+290,March in D (opening to K. 167A),Vienna,290,167AB,D Major,1772,July 1773,16,Divertimenti/Serenades,Divertimenti for string and wind instruments,2025-09-05 20:46:27.448184+00,,290,0290,0290|290,341
+"291,01",Adagio in D for Orchestra,,,Anh. A 52,D Major,1780,1780,24,,,2025-09-05 20:46:27.448184+00,,291,0291,"0291|291,01",342
+292,Duo in B-flat for Bassoon and Cello,Munich,292,196c,B Flat Major,1775,early 1775,19,Chamber Music,Duos and Trios for Strings and Winds,2025-09-05 20:46:27.448184+00,,292,0292,0292|292,343
+293,Oboe Concerto in F (incomplete),Vienna,293,416f,F Major,1778,March 1783,22,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,293,0293,0293|293,344
+293e,"Aria for Soprano ""Cara, la dolce fiamma"" after JC Bach",Mannheim,,,,1778,,22,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,293,0293,0293|293e,345
+294,"Recitative and Aria for Soprano, ""Alcandro, lo confesso""",Mannheim,294,294,,1778,24 February 1778,22,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,294,0294,0294|294,346
+295,"Aria for Tenor, ""Se al labbro mio non credi""",Mannheim,295,295,,1778,27 February 1778,22,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,295,0295,0295|295,347
+296,Violin Sonata No. 17 in C,Mannheim,296,296,C Major,1778,11 March 1778,22,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,296,0296,0296|296,348
+296c,Sanctus in E-flat (in conjunction with K. 322/296a),Mannheim,,296c,E Flat Major,1778,early 1778,22,,,2025-09-05 20:46:27.448184+00,,296,0296,0296|296c,349
+297,"Symphony No. 31 in D, ""Paris""",Paris,297,300a,D Major,1778,late May/early June 1778,22,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,297,0297,0297|297,350
+297a,8 Pieces in a Miserere (lost),Paris,Anh. 1,297a,A Major,1778,Spring 1778,22,,,2025-09-05 20:46:27.448184+00,,297,0297,0297|297a,351
+297b,Sinfonia Concertante for Four Winds in E-flat (lost),Paris,Anh. 9,297b,E Flat Major,1778,April 1778,22,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,297,0297,0297|297b,352
+298,Flute Quartet No. 4 in A,Vienna,298,298,A Major,1786,1786-1787,30,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,298,0298,0298|298,353
+299,Concerto for Flute and Harp in C,Paris,299,297c,C Major,1778,April 1778,22,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,299,0299,0299|299,354
+299b,"Ballet, Les petits riens",Paris,Anh. 10,299b,,1778,11 July 1778,22,Vocal Music with Orchestra,"Music for Plays, Pantomimes and Ballets",2025-09-05 20:46:27.448184+00,,299,0299,0299|299b,355
+299c,Ballet Intermezzo (fragment),Paris,,299c,,1778,Summer 1778,22,Vocal Music with Orchestra,"Music for Plays, Pantomimes and Ballets",2025-09-05 20:46:27.448184+00,,299,0299,0299|299c,356
+300,Gavotte,Paris,300,300,B Flat Major,1778,1778,22,Vocal Music with Orchestra,"Music for Plays, Pantomimes and Ballets",2025-09-05 20:46:27.448184+00,,300,0300,0300|300,357
+301,Violin Sonata No. 18 in G,Mannheim,301,293a,G Major,1778,February 1778,22,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,301,0301,0301|301,358
+302,Violin Sonata No. 19 in E-flat,Mannheim,302,293b,E Flat Major,1778,February 1778,22,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,302,0302,0302|302,359
+303,Violin Sonata No. 20 in C,Mannheim,303,293c,C Major,1778,February 1778,22,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,303,0303,0303|303,360
+304,Violin Sonata No. 21 in E minor,Paris,304,300c,E Minor,1778,early summer 1778,22,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,304,0304,0304|304,361
+305,Violin Sonata No. 22 in A,Mannheim,305,293d,A Major,1778,Spring 1778,22,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,305,0305,0305|305,362
+306,Violin Sonata No. 23 in D,Paris,306,300l,D Major,1778,Summer 1778,22,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,306,0306,0306|306,363
+307,"Arietta in C, ""Oiseaux, si tous les ans""",Mannheim,307,284d,C Major,1777,30 October 1777 and 13 March 1778,21,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,307,0307,0307|307,364
+308,"Arietta, ""Dans un bois solitaire""",Mannheim,308,295b,,1778,30 October 1777 and 13 March 1778,22,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,308,0308,0308|308,365
+309,Piano Sonata No. 7 in C,Mannheim,309,284b,C Major,1777,October - November 1777,21,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,309,0309,0309|309,366
+310,Piano Sonata No. 8 in A minor,Paris,310,300d,A Minor,1778,Summer 1778,22,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,310,0310,0310|310,367
+311,Piano Sonata No. 9 in D,Mannheim,311,284c,D Major,1777,October - November 1777,21,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,311,0311,0311|311,368
+311A,Overture (lost or unidentified),Paris,Anh. 8,311A,,1778,August 1778,22,,,2025-09-05 20:46:27.448184+00,,311,0311,0311|311A,369
+312,Sonata movement for Piano in G minor (fragment),Vienna,312,189i/590d,G Minor,1790,1790/1791,34,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,312,0312,0312|312,370
+313,Flute Concerto No. 1 in G,Mannheim,313,285c,G Major,1778,January or February 1778,22,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,313,0313,0313|313,371
+314,Oboe Concerto in C / Flute Concerto No. 2 in D,Mannheim,314,271k,D Major,1778,January or February 1778,22,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,314,0314,0314|314,372
+315,Andante in C for Flute and Orchestra,Mannheim,315,285e,C Major,1780,January or February 1778,24,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,315,0315,0315|315,373
+315a,8 Minuets,Salzburg,315a,315g,,1773,early 1779,17,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,315,0315,0315|315a,374
+315b,Scena,St. Germain,Anh. 3,315b,,1778,late August 1778,22,,,2025-09-05 20:46:27.448184+00,,315,0315,0315|315b,375
+315e,"Music to ""Semiramis""",Mannheim,Anh. 11,315e,,1778,November 1778,22,,,2025-09-05 20:46:27.448184+00,,315,0315,0315|315e,376
+315f,"Concerto for Violin, Piano, and Orchestra (fragment)",Mannheim,Anh. 56,315f,D Major,1777,November 1778,21,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,315,0315,0315|315f,377
+316,"Recitative and Aria for Soprano, ""Popoli di Tessaglia""",Munich,316,300b,,1779,8 January 1779,23,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,316,0316,0316|316,378
+317,"""Coronation Mass"" in C",Salzburg,317,317,C Major,1779,23 March 1779,23,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,317,0317,0317|317,379
+318,Symphony No. 32 in G,Salzburg,318,318,G Major,1779,26 April 1779,23,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,318,0318,0318|318,380
+319,Symphony No. 33 in B-flat,Salzburg,319,319,B Flat Major,1779,9 July 1779,23,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,319,0319,0319|319,381
+320,"Serenade No. 9 in D, ""Posthorn""",Salzburg,320,320,D Major,1779,3 August 1779,23,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,320,0320,0320|320,382
+320e,"Sinfonia Concertante for Violin, Viola, and Cello (fragment)",Salzburg,Anh. 104,320e,A Major,1779,Summer 1779,23,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,320,0320,0320|320e,383
+320f,La Chasse (fragment),Paris,Anh. 103,299d,A Major,1778,Autumn 1778,22,Vocal Music with Orchestra,"Music for Plays, Pantomimes and Ballets",2025-09-05 20:46:27.448184+00,,320,0320,0320|320f,384
+321,Vesperae de Dominica in C,Salzburg,321,321,C Major,1779,1779,23,Sacred Works,Litanies and Vespers,2025-09-05 20:46:27.448184+00,,321,0321,0321|321,385
+321a,Magnificat in C (fragment),Salzburg,,321a,C Major,1779,1779,23,Sacred Works,Litanies and Vespers,2025-09-05 20:46:27.448184+00,,321,0321,0321|321a,386
+322,Kyrie in E-flat (fragment; completed by M. Stadler),Mannheim,322,296a,E Flat Major,1778,early 1778,22,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,322,0322,0322|322,387
+323,Kyrie in C (fragment; completed by M. Stadler),Salzburg,Anh. 15,323,C Major,1790,1779?,34,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,323,0323,0323|323,388
+323a,Gloria in C (in conjunction with K. 323),Salzburg,Anh. 20,323a,C Major,1790,1779?,34,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,323,0323,0323|323a,389
+328,Church Sonata No. 16 in C,Salzburg,328,317c,C Major,1779,early 1779?,23,Church Sonatas,Church Sonatas,2025-09-05 20:46:27.448184+00,,328,0328,0328|328,390
+329,Church Sonata No. 15 in C,Salzburg,329,317a,C Major,1779,March 1779?,23,Church Sonatas,Church Sonatas,2025-09-05 20:46:27.448184+00,,329,0329,0329|329,391
+330,Piano Sonata No. 10 in C,Vienna or Salzburg,330,300h,C Major,1783,1783,27,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,330,0330,0330|330,392
+331,"Piano Sonata No. 11 in A, ""Alla Turca""",Vienna or Salzburg,331,300i,A Major,1783,1783,27,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,331,0331,0331|331,393
+332,Piano Sonata No. 12 in F,Vienna or Salzburg,332,300k,F Major,1783,1783,27,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,332,0332,0332|332,394
+333,"Piano Sonata No. 13 in B-flat, ""Linz""",Linz and Vienna,333,315c,B Flat Major,1783,1783-1784,27,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,333,0333,0333|333,395
+334,Divertimento No. 17 in D major,Salzburg,334,320b,D Major,1779,Summer 1780,23,Divertimenti/Serenades,Divertimenti for string and wind instruments,2025-09-05 20:46:27.448184+00,,334,0334,0334|334,396
+335,Two marches in D,Salzburg,335,320a,D Major,1779,early August 1779,23,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,335,0335,0335|335,397
+336,Church Sonata No. 17 in C,Salzburg,336,336d,C Major,1780,March 1780,24,Church Sonatas,Church Sonatas,2025-09-05 20:46:27.448184+00,,336,0336,0336|336,398
+337,Missa solemnis in C,Salzburg,337,337,C Major,1780,March 1780,24,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,337,0337,0337|337,399
+338,Symphony No. 34 in C,Salzburg,338,338,C Major,1780,29 August 1780,24,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,338,0338,0338|338,400
+339,Vesperae solennes de confessore in C,Salzburg,339,339,C Major,1780,1780,24,Sacred Works,Litanies and Vespers,2025-09-05 20:46:27.448184+00,,339,0339,0339|339,401
+341,Kyrie in D minor,Vienna,341,368a,D Minor,1787,1787-1791,31,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,341,0341,0341|341,402
+343,2 German Hymns,Prague or Vienna,343,336c,,1787,c. early 1787,31,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,343,0343,0343|343,403
+344,Zaide (Das Serail),Salzburg,344,336b,,1779,1779,23,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,344,0344,0344|344,404
+345,"2 Choruses/5 Entr'actes for ""Thamos, König in Ägypten""",Salzburg,,173d,,1773,3 October 1773,17,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,345,0345,0345|345,405
+345,"Choruses and Entr'actes for Thamos, König in Ägypten",Salzburg,345,336a,,1773,1779,17,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,345,0345,0345|345,406
+346,"Notturno ""Luci care, luci belle""",Vienna,,,,1787,,31,Vocal Music (smaller forms),Notturni & Polyphonic singing,2025-09-05 20:46:27.448184+00,,346,0346,0346|346,407
+347,"Canon ""Lasst uns ziehn""",Vienna,,,,1785,,29,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,347,0347,0347|347,408
+348,"Canon ""V'amo di core teneramente""",Vienna,,,,1782,,26,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,348,0348,0348|348,409
+349,"Song, ""Die Zufriedenheit""",Munich,349,367a,,1780,8 November 1780 and mid-March 1781,24,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,349,0349,0349|349,410
+351,"Song, ""Komm, liebe Zither""",Munich,351,367b,,1780,8 November 1780 and mid-March 1781,24,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,351,0351,0351|351,411
+352,"8 Variations in F on ""Dieu d'amour"" from Les mariages samnites by André Grétry",Vienna,352,374c,F Major,1781,June 1781,25,Piano Music,Variations for Piano,2025-09-05 20:46:27.448184+00,,352,0352,0352|352,412
+353,"12 Variations in E-flat on ""La belle Françoise""",Paris,353,300f,E Flat Major,1778,1778,22,Piano Music,Variations for Piano,2025-09-05 20:46:27.448184+00,,353,0353,0353|353,413
+354,"12 Variations for Piano on ""Je suis Lindor""",Paris,354,299a,,1778,1778,22,Piano Music,Variations for Piano,2025-09-05 20:46:27.448184+00,,354,0354,0354|354,414
+355,Minuet for Piano in D,Vienna,355,576b,D Major,1780,July 1789,24,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,355,0355,0355|355,415
+356,Adagio in C for Glass Harmonica,Vienna,356,617a,C Major,1791,1791,35,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,356,0356,0356|356,416
+357,Piano Sonata for Four Hands (Fragment),Vienna,,,G Major,1786,,30,Piano Music,Works for two pianos and for piano four hands,2025-09-05 20:46:27.448184+00,,357,0357,0357|357,417
+"357,01",Allegro in G for Piano Four-Hands (in conjunction with K. 500a),Vienna,357/1,497a,G Major,1786,late Summer 1786,30,,,2025-09-05 20:46:27.448184+00,,357,0357,"0357|357,01",418
+"357,02",Variations and Coda in G for Piano Four-Hands,Vienna,357/2,500a,G Major,1786,September 1786,30,,,2025-09-05 20:46:27.448184+00,,357,0357,"0357|357,02",419
+358,Sonata in B-flat for Piano Four-Hands,Salzburg,358,186c,B Flat Major,1773,Spring 1774,17,Piano Music,Works for two pianos and for piano four hands,2025-09-05 20:46:27.448184+00,,358,0358,0358|358,420
+359,"12 Variations in G on ""La Bergère Célimène"" (by Antoine Albanèse [fr] 1729/31-1800)",Vienna,359,374a,G Major,1781,June 1781,25,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,359,0359,0359|359,421
+360,"6 Variations in G minor on ""Hélas, j'ai perdu mon amant""(recte ""Au bord d'une fontaine"" by Antoine Albanèse)[5]",Vienna,360,374b,G Minor,1781,June 1781,25,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,360,0360,0360|360,422
+361,"Serenade No. 10 for Winds in B-flat, ""Gran Partita""",Vienna,361,370a,B Flat Major,1783,1783-1784,27,Divertimenti/Serenades,Divertimenti and serenades for wind instruments,2025-09-05 20:46:27.448184+00,,361,0361,0361|361,423
+362,March (Idomeneo),Salzburg,,,C Major,1780,,24,Vocal Music with Orchestra,"Music for Plays, Pantomimes and Ballets",2025-09-05 20:46:27.448184+00,,362,0362,0362|362,424
+363,3 Minuets for Orchestra,Salzburg,363,363,,1782,1780,26,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,363,0363,0363|363,425
+364,"Sinfonia Concertante for Violin, Viola and Orchestra in E-flat",Salzburg,364,320d,E Flat Major,1779,1779,23,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,364,0364,0364|364,426
+365,"Concerto in E-flat for Two Pianos, No. 10",Salzburg,365,316a,E Flat Major,1779,early 1779,23,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,365,0365,0365|365,427
+365a,"Scene for Schikanender's ""Peter der Grausame"" (fragment)",Munich,Anh. 11a,365a,,1780,1780,24,,,2025-09-05 20:46:27.448184+00,,365,0365,0365|365a,428
+366,"Idomeneo, re di Creta",Salzburg and Munich,366,366,,1781,29 January 1781,25,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,366,0366,0366|366,429
+367,Ballet for Idomeneo,Salzburg and Munich,367,367,,1781,29 January 1781,25,Vocal Music with Orchestra,"Music for Plays, Pantomimes and Ballets",2025-09-05 20:46:27.448184+00,,367,0367,0367|367,430
+368,"Recitative and Aria for Soprano, ""Ma che vi fece""",Munich,368,368,,1779,January 1781,23,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,368,0368,0368|368,431
+369,"Recitative and Aria for Soprano, ""Misera, dove son!""",Munich,369,369,,1781,8 March 1781,25,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,369,0369,0369|369,432
+370,Oboe Quartet in F,Munich,370,368b,F Major,1781,early 1781,25,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,370,0370,0370|370,433
+370b,Horn Concerto movement in E-flat,Vienna,Anh. 97,370b,E Flat Major,1781,21 March 1781,25,,,2025-09-05 20:46:27.448184+00,,370,0370,0370|370b,434
+371,Rondo in E-flat for Horn,Vienna,371,371,E Flat Major,1781,21 March 1781,25,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,371,0371,0371|371,435
+372,Allegro in B-flat for Violin and Piano (fragment; completed by M. Stadler),Vienna,372,372,B Flat Major,1781,24 March 1781,25,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,372,0372,0372|372,436
+373,Rondo in C for Violin and Orchestra,Vienna,373,373,C Major,1781,2 April 1781,25,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,373,0373,0373|373,437
+374,"Recitative and Aria for Soprano, ""A questo seno deh vieni""",Vienna,374,374,,1781,April 1781,25,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,374,0374,0374|374,438
+374g,Andantino in B-flat for Cello and Piano (fragment),Vienna,Anh. 46,374g,B Flat Major,1782,1782,26,,,2025-09-05 20:46:27.448184+00,,374,0374,0374|374g,439
+375,Serenade No. 11 in E-flat for Winds,Vienna,375,375,E Flat Major,1781,15 October 1781,25,Divertimenti/Serenades,Divertimenti and serenades for wind instruments,2025-09-05 20:46:27.448184+00,,375,0375,0375|375,440
+375b,Movement to a Piano Sonata for two Pianos in B-flat,Vienna,Anh. 42,375b,B Flat Major,1782,Spring 1782,26,Piano Music,Works for two pianos and for piano four hands,2025-09-05 20:46:27.448184+00,,375,0375,0375|375b,441
+375c,Movement to a Piano Sonata for two Pianos in B-flat,Vienna,Anh. 43,375c,B Flat Major,1782,Spring 1782,26,Piano Music,Works for two pianos and for piano four hands,2025-09-05 20:46:27.448184+00,,375,0375,0375|375c,442
+375d,Fugue in G for Two Pianos (fragment),Vienna,Anh. 45,375d,G Major,1785,Spring 1782,29,Piano Music,Works for two pianos and for piano four hands,2025-09-05 20:46:27.448184+00,,375,0375,0375|375d,443
+375g,Fugue for Piano,Vienna,,,G Major,1776,,20,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,375,0375,0375|375g,444
+375h,Fugue for Piano,Vienna,,,F Major,1783,,27,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,375,0375,0375|375h,445
+376,Violin Sonata No. 24 in F,Vienna,376,374d,F Major,1781,Summer 1781,25,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,376,0376,0376|376,446
+377,Violin Sonata No. 25 in F,Vienna,377,374e,F Major,1781,Summer 1781,25,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,377,0377,0377|377,447
+378,Violin Sonata No. 26 in B-flat,Salzburg,378,317d,B Flat Major,1779,early 1779,23,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,378,0378,0378|378,448
+379,Violin Sonata No. 27 in G,Vienna,379,373a,G Major,1781,April 1781,25,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,379,0379,0379|379,449
+380,Violin Sonata No. 28 in E-flat,Vienna,380,374f,E Flat Major,1781,Summer 1781,25,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,380,0380,0380|380,450
+381,Sonata in D for Piano Four-Hands,Salzburg,381,123a,D Major,1772,early 1772,16,Piano Music,Works for two pianos and for piano four hands,2025-09-05 20:46:27.448184+00,,381,0381,0381|381,451
+382,Rondo for Piano and Orchestra in D,Vienna,382,382,D Major,1782,March 1782,26,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,382,0382,0382|382,452
+383,"Aria for Soprano, ""Nehmt meinen Dank, ihr holden Gönner!""",Vienna,383,383,,1782,10 April 1782,26,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,383,0383,0383|383,453
+383C,Fantasia in F minor for Piano (fragment),Vienna,Anh. 32,383C,C Minor,1782,1789,26,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,383,0383,0383|383C,454
+383b,Fugue for Piano,Vienna,,,F Major,1782,,26,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,383,0383,0383|383b,455
+383d,Theme for Variations in C (fragment),Vienna,Anh. 38,383d,C Major,1782,Spring 1782,26,Piano Music,Variations for Piano,2025-09-05 20:46:27.448184+00,,383,0383,0383|383d,456
+383d,Theme and Variations for Organ in C (fragment),Vienna,Anh. 38,383c,C Major,1782,Spring 1782,26,Piano Music,Variations for Piano,2025-09-05 20:46:27.448184+00,,383,0383,0383|383d,457
+383g,"Symphony in E-flat (fragment, lost)",Vienna?,Anh. 100,383g,E Flat Major,1782,May 1782,26,,,2025-09-05 20:46:27.448184+00,,383,0383,0383|383g,458
+384,Die Entführung aus dem Serail,Vienna,384,384,,1782,16 July 1782,26,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,384,0384,0384|384,459
+384B,Andante for Winds in B-flat (fragment),Vienna,,384B,B Flat Major,1782,1782,26,Divertimenti/Serenades,Divertimenti and serenades for wind instruments,2025-09-05 20:46:27.448184+00,,384,0384,0384|384B,460
+384b,March for Winds in B-flat (in conjunction with K. 384B),Vienna,,384b,B Flat Major,1782,July 1782,26,Divertimenti/Serenades,Divertimenti and serenades for wind instruments,2025-09-05 20:46:27.448184+00,,384,0384,0384|384b,461
+385,"Symphony No. 35 in D, ""Haffner""",Vienna,385,385,D Major,1782,July 1782,26,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,385,0385,0385|385,462
+385h,Adagio in D for Piano or Organ,Vienna,Anh. 34,385h,D Minor,1782,1782,26,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,385,0385,0385|385h,463
+"385h,02",Minuet for Piano in D,Vienna,Anh. 34/2,576a,D Major,1789,July 1789,33,,,2025-09-05 20:46:27.448184+00,,385,0385,"0385|385h,02",464
+385m,Fugue for String Quartet,Vienna,,,C Major,1782,,26,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,385,0385,0385|385m,465
+386,Rondo for Piano and Orchestra in A,Vienna,386,386,A Major,1782,1782-1783,26,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,386,0386,0386|386,466
+386d,O Calpe! Dir donnert's am Fuße (Gibraltar) (fragment),Vienna,Anh. 25,386d,D Minor,1782,December 1782,26,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,386,0386,0386|386d,467
+387,"String Quartet No. 14 in G, ""Spring""",Vienna,387,387,G Major,1782,31 December 1782,26,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,387,0387,0387|387,468
+387c,Chamber Music with Piano in C (fragment),Vienna,Anh. 55,452b,C Major,1784,1784,28,,,2025-09-05 20:46:27.448184+00,,387,0387,0387|387c,469
+388,Serenade No. 12 in C minor for Winds (later arranged as K. 406/516b),Vienna,388,384a,C Minor,1782,July 1782 or late 1783,26,Divertimenti/Serenades,Divertimenti and serenades for wind instruments,2025-09-05 20:46:27.448184+00,,388,0388,0388|388,470
+389,"Duet for two Voices ""Welch ängstliches Beben""",Vienna,389,384A,,1782,April 1782,26,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,389,0389,0389|389,471
+390,"Song, ""Ich würd auf meinem Pfad mit Tränen""",Vienna,390,340c,,1780,August 1781 and May 1782,24,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,390,0390,0390|390,472
+391,"Song, ""Sei du mein Trost, verschwiegne Traurigkeit""",Vienna,391,340b,,1780,August 1781 and May 1782,24,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,391,0391,0391|391,473
+392,"Song, ""Verdankt sei es dem Glanz""",Vienna,392,340a,,1780,August 1781 and May 1782,24,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,392,0392,0392|392,474
+393,"""Solfeggi"" for Soprano",Vienna,,,,1782,,26,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,393,0393,0393|393,475
+394,Prelude and Fugue in C for Piano,Vienna,394,383a,C Major,1782,early 1782,26,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,394,0394,0394|394,476
+395,Capriccio in C for Piano,Munich,395,300g,C Major,1778,1778,22,,,2025-09-05 20:46:27.448184+00,,395,0395,0395|395,477
+396,Fantasia for Piano & Violin in C minor,Vienna,396,385f,C Minor,1782,August or September 1782,26,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,396,0396,0396|396,478
+397,Fantasia No. 3 in D minor,Vienna,397,385g,D Minor,1782,1782,26,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,7IHEJdJhju1F2rhIiwgawx,397,0397,0397|397,479
+398,"6 Variations on ""Salve tu, Domine""",Vienna,398,416e,F Major,1783,March 1783,27,Piano Music,Variations for Piano,2025-09-05 20:46:27.448184+00,,398,0398,0398|398,480
+399,"Suite in C for Piano (Overture, Allemande, Courante, & incomplete Sarabande)",Vienna,399,385i,C Major,1782,early 1782,26,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,399,0399,0399|399,481
+400,Allegro in B-flat for Piano (fragment; completed by M. Stadler),Vienna,400,372a,B Flat Major,1782,1781,26,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,400,0400,0400|400,482
+401,Fugue in G minor for Organ (fragment),Vienna,401,375e,G Minor,1772,Spring 1782,16,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,401,0401,0401|401,483
+402,Violin Sonata No. 29 in A (fragment; completed by M. Stadler),Vienna,402,385e,A Major,1782,August or September 1782,26,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,402,0402,0402|402,484
+403,Violin Sonata No. 30 in C (fragment; completed by M. Stadler),Vienna,403,385c,C Major,1784,1782?,28,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,403,0403,0403|403,485
+404,Violin Sonata No. 31 in C (fragment; completed by M. Stadler),Vienna,404,385d,C Major,1782,1782,26,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,404,0404,0404|404,486
+404a,6 Preludes to Fugues by J.S. & W.F. Bach for String Trio,Vienna,,,,1782,,26,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,404,0404,0404|404a,487
+405,5 Fugues by Bach arranged for String Quartet,Vienna,,,,1782,,26,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,405,0405,0405|405,488
+406,String Quintet No. 2 in C minor (arrangement of K. 388/384a),Vienna,406,516b,C Minor,1788,1777/1788,32,Chamber Music,String quintets and quintets with winds,2025-09-05 20:46:27.448184+00,,406,0406,0406|406,489
+407,Horn Quintet in E-flat,Vienna,407,386c,E Flat Major,1782,End of 1782,26,Chamber Music,String quintets and quintets with winds,2025-09-05 20:46:27.448184+00,,407,0407,0407|407,490
+408,3 Marches for Orchestra,Vienna,,,,1782,,26,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,408,0408,0408|408,491
+"408,01",March in C,Vienna,408,383e,C Major,1782,September 1782,26,,,2025-09-05 20:46:27.448184+00,,408,0408,"0408|408,01",492
+"408,02",March in D,Vienna,408b,385a,D Major,1782,1782,26,,,2025-09-05 20:46:27.448184+00,,408,0408,"0408|408,02",493
+"408,03",March in C,Vienna,408c,383F,C Major,1782,1782,26,,,2025-09-05 20:46:27.448184+00,,408,0408,"0408|408,03",494
+409,Symphonic Minuet in C,Vienna?,409,383f,C Major,1782,May 1782,26,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,409,0409,0409|409,495
+410,Adagio in F for Two Basset Horns and Bassoon (= D Anh. III/11),Vienna?,410,484d,F Major,1784,end 1785,28,Chamber Music,Duos and Trios for Strings and Winds,2025-09-05 20:46:27.448184+00,,410,0410,0410|410,496
+411,Adagio in B-flat for Two Clarinets and Three Basset Horns,Vienna?,411,484a,F Major,1782,c. end of 1785,26,Divertimenti/Serenades,Divertimenti and serenades for wind instruments,2025-09-05 20:46:27.448184+00,,411,0411,0411|411,497
+412,Horn Concerto No. 1 in D,Vienna,412,386b,D Major,1791,1791,35,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,412,0412,0412|412,498
+413,Piano Concerto No. 11 in F,Vienna,413,387a,F Major,1782,1782-1783,26,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,413,0413,0413|413,499
+414,Piano Concerto No. 12 in A,Vienna,414,385p,A Major,1782,1782,26,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,414,0414,0414|414,500
+415,Piano Concerto No. 13 in C,Vienna,415,387b,C Major,1782,1782-1783,26,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,415,0415,0415|415,501
+416,"Scena and Rondo for Soprano, ""Mia speranza adorata""",Vienna,416,416,,1783,8 January 1783,27,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,416,0416,0416|416,502
+416a,"German Opera ""Der Diener zweier Herren"" (lost or unrealised)",Vienna,,416a,,1783,8 January 1783,27,,,2025-09-05 20:46:27.448184+00,,416,0416,0416|416a,503
+417,Horn Concerto No. 2 in E-flat,Vienna,417,417,E Flat Major,1783,27 May 1783,27,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,417,0417,0417|417,504
+417d,Allegro for String Quartet in E minor (fragment),Vienna,,417d,E Minor,1784,June 1784,28,,,2025-09-05 20:46:27.448184+00,,417,0417,0417|417d,505
+418,"Aria for Soprano, ""Vorrei spiegarvi, oh Dio!""",Vienna,418,418,,1783,20 June 1783,27,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,418,0418,0418|418,506
+419,"Aria for Soprano, ""No, no, che non sei capace""",Vienna,419,419,,1783,June 1783,27,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,419,0419,0419|419,507
+420,"Aria for Tenor, ""Per pietà, non ricercate""",Vienna,420,420,,1783,21 June 1783,27,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,420,0420,0420|420,508
+421,String Quartet No. 15 in D minor,Vienna,421,417b,D Minor,1783,June 1783,27,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,421,0421,0421|421,509
+422,L'oca del Cairo,Salzburg and Vienna,422,422,,1783,late 1783,27,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,422,0422,0422|422,510
+422a,Kyrie in D,Salzburg,Anh. 14,422a,D Major,1787,1787-1789,31,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,422,0422,0422|422a,511
+423,Duo in G for Violin and Viola,Salzburg?,423,423,G Major,1783,c. summer 1783,27,Chamber Music,Duos and Trios for Strings and Winds,2025-09-05 20:46:27.448184+00,,423,0423,0423|423,512
+424,Duo in B-flat for Violin and Viola,Salzburg?,424,424,B Flat Major,1783,c. summer 1783,27,Chamber Music,Duos and Trios for Strings and Winds,2025-09-05 20:46:27.448184+00,,424,0424,0424|424,513
+425,"Symphony No. 36 in C, ""Linz""",Linz,425,425,C Major,1783,October - November 1783,27,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,425,0425,0425|425,514
+426,Fugue in C minor for Two Pianos,Vienna,426,426,C Minor,1783,29 December 1783,27,Piano Music,Works for two pianos and for piano four hands,2025-09-05 20:46:27.448184+00,,426,0426,0426|426,515
+426a,Allegro in C minor for Two Pianos (fragment),Vienna,Anh. 44,426a,C Minor,1783,December 1783,27,,,2025-09-05 20:46:27.448184+00,,426,0426,0426|426a,516
+427,Great Mass in C minor,Vienna,427,417a,C Minor,1783,July 1782 - October 1783,27,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,427,0427,0427|427,517
+428,String Quartet No. 16 in E-flat,Vienna,428,421b,E Flat Major,1783,June - July 1783,27,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,428,0428,0428|428,518
+429,"Cantata, ""Dir, Seele des Weltalls"" (fragment)",Vienna,429,468a,,1783,1783,27,Sacred Works,"Oratorios, Sacred Singspiels and Cantatas",2025-09-05 20:46:27.448184+00,,429,0429,0429|429,519
+430,Lo sposo deluso,Salzburg and Vienna,430,424a,,1783,late 1783,27,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,430,0430,0430|430,520
+431,"Recitative and Aria for Tenor, ""Misero! O sogno!""",Vienna?,431,425b,,1783,December 1783,27,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,431,0431,0431|431,521
+432,"Recitative and Aria for Bass, ""Così dunque tradisci""",Vienna,432,421a,,1782,1783,26,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,432,0432,0432|432,522
+433,"Aria for bass and orchestra (sketch), ""Männer suchen stets zu naschen""",Vienna,433,416c,,1783,1783,27,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,433,0433,0433|433,523
+434,"Aria for tenor, 2 basses and orchestra, ""Del gran regno delle amazzone""",Vienna,434,480b,,1785,End of 1785,29,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,434,0434,0434|434,524
+435,"Aria for tenor and orchestra (sketch), ""Mußt' ich auch durch tausend Drachen""",Vienna,435,416b,,1783,1783,27,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,435,0435,0435|435,525
+436,"Notturno for 2 Sopranos & Bass ""Ecco quel fiero istante""",Vienna,,,,1783,,27,Vocal Music (smaller forms),Notturni & Polyphonic singing,2025-09-05 20:46:27.448184+00,,436,0436,0436|436,526
+437,"Notturno for 2 Sopranos & Bass ""Mi lagnero tacendo""",Vienna,,,,1787,,31,Vocal Music (smaller forms),Notturni & Polyphonic singing,2025-09-05 20:46:27.448184+00,,437,0437,0437|437,527
+438,"Notturno for 3 Voices ""Se lontan ben mio, tu sei""",Vienna,,,,1787,,31,Vocal Music (smaller forms),Notturni & Polyphonic singing,2025-09-05 20:46:27.448184+00,,438,0438,0438|438,528
+439,"Notturno for 2 Sopranos & Bass ""Due pupille amabile""",Vienna,,,,1783,,27,Vocal Music (smaller forms),Notturni & Polyphonic singing,2025-09-05 20:46:27.448184+00,,439,0439,0439|439,529
+439b,5 Divertimenti in B-flat (doubtful),Vienna,Anh. 229,439b,B Flat Major,1783,1783-1788,27,,,2025-09-05 20:46:27.448184+00,,439,0439,0439|439b,530
+440,"Aria for Soprano ""In te spero, o sposo amato""",Vienna?,440,383h,,1782,May 1782,26,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,440,0440,0440|440,531
+440b,Allegro assai for Winds in B-flat (fragment),Vienna,Anh. 95 (440b;484b),484b,B Flat Major,1785,end 1785,29,Divertimenti/Serenades,Divertimenti and serenades for wind instruments,2025-09-05 20:46:27.448184+00,,440,0440,0440|440b,532
+440c,Adagio for Winds in F (fragment),Vienna,Anh. 93; 440c,484c,F Major,1787,end 1785,31,Divertimenti/Serenades,Divertimenti and serenades for wind instruments,2025-09-05 20:46:27.448184+00,,440,0440,0440|440c,533
+441,"Trio for Soprano, Tenor and Bass, ""Liebes Manndel, wo ist's Bandel?""",Vienna,441,441,,1786,1783,30,Vocal Music (smaller forms),Notturni & Polyphonic singing,2025-09-05 20:46:27.448184+00,,441,0441,0441|441,534
+441a,"Song, ""Ja! grüß dich Gott""",Vienna,,441a,,1788,1783,32,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,441,0441,0441|441a,535
+442,3 Unrelated Fragments for a Piano Trio (completed by M. Stadler),Vienna,442,442,D Minor,1783,1783-1788,27,Chamber Music,"Quintets, quartets and trios with piano",2025-09-05 20:46:27.448184+00,,442,0442,0442|442,536
+443,Fugue in 3 vocal parts (Fragment),Vienna,,,,1782,,26,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,443,0443,0443|443,537
+444,Introduction to a Symphony (#37) of Michael Haydn,Vienna,,,G Major,1783,,27,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,444,0444,0444|444,538
+445,March in D,Salzburg,445,320c,D Major,1780,Summer 1780,24,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,445,0445,0445|445,539
+446,Music to a Pantomime in D (fragment),Vienna,446,416d,D Major,1783,February 1783,27,Vocal Music with Orchestra,"Music for Plays, Pantomimes and Ballets",2025-09-05 20:46:27.448184+00,,446,0446,0446|446,540
+447,Horn Concerto No. 3 in E-flat,Vienna,447,447,E Flat Major,1787,c. 1784-1787,31,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,447,0447,0447|447,541
+448,Sonata in D for Two Pianos,Vienna,448,375a,D Major,1781,November 1781,25,Piano Music,Works for two pianos and for piano four hands,2025-09-05 20:46:27.448184+00,,448,0448,0448|448,542
+449,"Piano Concerto No. 14 in E-flat, ""First Ployer""",Vienna,449,449,E Flat Major,1784,9 February 1784,28,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,449,0449,0449|449,543
+450,Piano Concerto No. 15 in B-flat,Vienna,450,450,B Flat Major,1784,15 March 1784,28,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,450,0450,0450|450,544
+451,Piano Concerto No. 16 in D,Vienna,451,451,D Major,1784,22 March 1784,28,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,451,0451,0451|451,545
+452,Quintet for Piano and Winds in E-flat,Vienna,452,452,E Flat Major,1784,30 March 1784,28,Chamber Music,"Quintets, quartets and trios with piano",2025-09-05 20:46:27.448184+00,,452,0452,0452|452,546
+452a,Quintet for Piano and Winds in B-flat (fragment),Vienna,Anh. 54,452a,B Flat Major,1784,1784,28,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,452,0452,0452|452a,547
+452c,Movement to a Piano Concerto in C (fragment; in conjunction with K. 453),Vienna,Anh. 65,452c,C Major,1784,April 1784,28,,,2025-09-05 20:46:27.448184+00,,452,0452,0452|452c,548
+453,"Piano Concerto No. 17 in G, ""Second Ployer""",Vienna,453,453,G Major,1784,12 April 1784,28,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,453,0453,0453|453,549
+453a,Funeral March for Piano in C minor,Vienna,,453a,C Minor,1784,1784,28,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,453,0453,0453|453a,550
+454,"Violin Sonata No. 32 in B-flat, for Regina Strinasacchi",Vienna,454,454,B Flat Major,1784,21 April 1784,28,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,454,0454,0454|454,551
+455,"10 Variations in G on ""Unser dummer Pöbel meint""",Vienna,455,455,G Major,1784,25 August 1784,28,Piano Music,Variations for Piano,2025-09-05 20:46:27.448184+00,,455,0455,0455|455,552
+456,"Piano Concerto No. 18 in B-flat, ""Paradis""",Vienna,456,456,B Flat Major,1784,30 September 1784,28,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,456,0456,0456|456,553
+457,Piano Sonata No. 14 in C minor,Vienna,457,457,C Minor,1784,14 October 1784,28,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,457,0457,0457|457,554
+458,"String Quartet No. 17 in B-flat, ""The Hunt""",Vienna,458,458,B Flat Major,1784,9 November 1784,28,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,458,0458,0458|458,555
+458a,Minuet for String Quartet in B-flat (fragment),Vienna,Anh. 75,458a,B Flat Major,1784,November 1784,28,,,2025-09-05 20:46:27.448184+00,,458,0458,0458|458a,556
+458b,Rondo for String Quartet in B-flat (fragment),Vienna,Anh. 71,458b,B Flat Major,1790,November 1784,34,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,458,0458,0458|458b,557
+459,Piano Concerto No. 19 in F,Vienna,459,459,F Major,1784,11 December 1784,28,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,459,0459,0459|459,558
+460,"Eight/Two (K9) Variations in A major on ""Come un agnello"" from Sarti's Fra i due litiganti il terzo gode (1782); the long version is spurious (K9 Anh.C 26.23)",Vienna,460,454a,A Major,1783,c. June 1784,27,Piano Music,Variations for Piano,2025-09-05 20:46:27.448184+00,,460,0460,0460|460,559
+461,5 (6) Minuets (the sixth is a fragment),Vienna,461,448a,,1784,early 1784,28,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,461,0461,0461|461,560
+462,6 Contredanses,Vienna,462,448b,,1781,January 1784,25,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,462,0462,0462|462,561
+463,2 Minuets with Contredanses,Vienna,463,448c,,1781,early 1784,25,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,463,0463,0463|463,562
+464,String Quartet No. 18 in A,Vienna,464,464,A Major,1785,10 January 1785,29,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,464,0464,0464|464,563
+464a,Rondo for String Quartet in A (rondo to K. 464; fragment),Vienna,Anh. 72,464a,A Major,1785,10 January 1785,29,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,464,0464,0464|464a,564
+465,"String Quartet No. 19 in C, ""Dissonance""",Vienna,465,465,C Major,1785,14 January 1785,29,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,465,0465,0465|465,565
+466,Piano Concerto No. 20 in D minor,Vienna,466,466,D Minor,1785,10 February 1785,29,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,466,0466,0466|466,566
+466a,Movement to a Piano Concerto in C (in conjunction with K. 459),Vienna,Anh. 59,459a,C Major,1784,December 1784,28,,,2025-09-05 20:46:27.448184+00,,466,0466,0466|466a,567
+467,Piano Concerto No. 21 in C,Vienna,467,467,C Major,1785,9 March 1785,29,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,467,0467,0467|467,568
+467a,Movement to a Symphony in C (fragment),Vienna,,383i,C Major,1782,May 1782,26,,,2025-09-05 20:46:27.448184+00,,467,0467,0467|467a,569
+468,"Song, ""Lied zur Gesellenreise""",Vienna,468,468,,1785,26 March 1785,29,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,468,0468,0468|468,570
+469,Davide penitente,Vienna,469,469,,1785,13 March 1785,29,Sacred Works,"Oratorios, Sacred Singspiels and Cantatas",2025-09-05 20:46:27.448184+00,,469,0469,0469|469,571
+470,Andante to a Violin Concerto of Viotti (lost),Vienna,470,470,,1785,1785,29,,,2025-09-05 20:46:27.448184+00,,470,0470,0470|470,572
+471,"Cantata, Die Maurerfreude  (Score)",Vienna,471,471,,1785,20 April 1785,29,Sacred Works,"Oratorios, Sacred Singspiels and Cantatas",2025-09-05 20:46:27.448184+00,,471,0471,0471|471,573
+472,"Song, ""Der Zauberer""",Vienna,472,472,,1785,7 May 1785,29,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,472,0472,0472|472,574
+473,"Song, ""Die Zufriedenheit""",Vienna,473,473,,1785,7 May 1785,29,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,473,0473,0473|473,575
+474,"Song, ""Die betrogene Welt""",Vienna,474,474,,1785,7 May 1785,29,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,474,0474,0474|474,576
+475,Fantasia for Piano in C minor,Vienna,475,475,C Minor,1785,20 May 1785,29,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,475,0475,0475|475,577
+475a,"Song, ""Einsam bin ich, meine Liebe"" in D minor (fragment, doubtful)",Vienna,Anh. 26,475a,D Minor,1785,1785?,29,,,2025-09-05 20:46:27.448184+00,,475,0475,0475|475a,578
+476,"Song, ""Das Veilchen""",Vienna,476,476,,1785,8 June 1785,29,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,476,0476,0476|476,579
+477,Maurerische Trauermusik (Masonic Funeral Music),Vienna,477,479a,C Minor,1785,November 1785,29,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,477,0477,0477|477,580
+477a,"Cantata, ""Per la ricuperata salute di Ofelia"" (fragment)",Vienna,Anh. 11a,477a,,1785,September 1785,29,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,477,0477,0477|477a,581
+478,Piano Quartet No. 1 in G minor,Vienna,478,478,G Minor,1785,16 October 1785,29,Chamber Music,"Quintets, quartets and trios with piano",2025-09-05 20:46:27.448184+00,,478,0478,0478|478,582
+479,"Quartet for soprano, tenor and two basses, ""Dite almeno in che mancai"" (Score), for La villanella rapita (1785)",Vienna,479,479,,1785,5 November 1785,29,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,479,0479,0479|479,583
+480,"Trio for soprano, tenor and bass, ""Mandina amabile"" (Score), for La villanella rapita (1785)",Vienna,480,480,,1785,21 November 1785,29,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,480,0480,0480|480,584
+480a,Allegro for Piano and Violin (fragment),Vienna,Anh.48/480a,385E,A Major,1782,1782,26,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,480,0480,0480|480a,585
+481,Violin Sonata No. 33 in E-flat,Vienna,481,481,E Flat Major,1785,12 December 1785,29,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,481,0481,0481|481,586
+482,Piano Concerto No. 22 in E-flat,Vienna,482,482,E Flat Major,1785,16 December 1785,29,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,482,0482,0482|482,587
+483,"Song with chorus, ""Zerfließet heut""",Vienna,483,483,,1785,End of 1785,29,Vocal Music (smaller forms),Notturni & Polyphonic singing,2025-09-05 20:46:27.448184+00,,483,0483,0483|483,588
+484,"Song with chorus, ""Ihr unsre neuen Leiter""",Vienna,484,484,,1785,End of 1785,29,Vocal Music (smaller forms),Notturni & Polyphonic singing,2025-09-05 20:46:27.448184+00,,484,0484,0484|484,589
+484e,Allegro for Basset Horn in F (fragment),Vienna,,484e,F Major,1785,end 1785,29,,,2025-09-05 20:46:27.448184+00,,484,0484,0484|484e,590
+485,Rondo in D for Piano,Vienna,485,485,D Major,1786,10 January 1786,30,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,485,0485,0485|485,591
+486,Der Schauspieldirektor,Vienna,486,486,,1786,7 February 1786,30,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,486,0486,0486|486,592
+486a,"Recitative and Aria for Soprano, ""Basta, vincesti""",Mannheim,486a,295a,,1778,27 February 1778,22,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,486,0486,0486|486a,593
+487,"12 Duos for Two Horns (Nos. 2, 4, 5, 7-12 doubtful)",Vienna,487,496a,,1786,27 July 1786,30,Chamber Music,Duos and Trios for Strings and Winds,2025-09-05 20:46:27.448184+00,,487,0487,0487|487,594
+488,Piano Concerto No. 23 in A,Vienna,488,488,A Major,1786,2 March 1786,30,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,488,0488,0488|488,595
+488a,Movement to a Piano Concerto in D (fragment),Vienna,Anh. 58,488a,D Major,1786,March 1786,30,,,2025-09-05 20:46:27.448184+00,,488,0488,0488|488a,596
+488b,Movement to a Piano Concerto in A (in conjunction with K. 488; fragment),Vienna,Anh. 63,488b,A Major,1786,March 1786,30,,,2025-09-05 20:46:27.448184+00,,488,0488,0488|488b,597
+488c,Movement to a Piano Concerto in A (in conjunction with K. 488; fragment),Vienna,Anh. 64,488c,A Major,1786,March 1786,30,,,2025-09-05 20:46:27.448184+00,,488,0488,0488|488c,598
+488d,Rondo for a Piano Concerto in A (in conjunction with K. 488; fragment),Vienna,,488d,A Major,1786,March 1786,30,,,2025-09-05 20:46:27.448184+00,,488,0488,0488|488d,599
+489,"Duet for Soprano and Tenor, ""Spiegarti no poss'io""",Vienna,489,489,,1786,10 March 1786,30,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,489,0489,0489|489,600
+490,"Scena and Rondo for Soprano and Tenor, ""Non più. Tutto ascoltai - Non temer, amato bene""",Vienna,490,490,,1786,10 March 1786,30,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,490,0490,0490|490,601
+491,Piano Concerto No. 24 in C minor,Vienna,491,491,C Minor,1786,24 March 1786,30,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,491,0491,0491|491,602
+492,Le nozze di Figaro,Vienna,492,492,,1786,1 May 1786,30,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,492,0492,0492|492,603
+493,Piano Quartet No. 2 in E-flat,Vienna,493,493,E Flat Major,1786,3 June 1786,30,Chamber Music,"Quintets, quartets and trios with piano",2025-09-05 20:46:27.448184+00,,493,0493,0493|493,604
+493a,Movement to a Piano Quartet in E-flat (original final movement to K. 493),Vienna,Anh. 53,493a,E Flat Major,1786,3 June 1786,30,,,2025-09-05 20:46:27.448184+00,,493,0493,0493|493a,605
+494,Rondo in F,Vienna,494,494,F Major,1786,10 June 1786,30,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,494,0494,0494|494,606
+494a,Movement for a Horn Concerto in E (fragment),Vienna,Anh. 98a,494a,F Major,1786,Summer 1786,30,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,494,0494,0494|494a,607
+495,Horn Concerto No. 4 in E-flat,Vienna,495,495,E Flat Major,1786,26 June 1786,30,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,495,0495,0495|495,608
+495a,Movement to a Piano Trio in G (in conjunction with K. 496),Vienna,Anh. 52,495a,G Major,1786,June 1786,30,Chamber Music,"Quintets, quartets and trios with piano",2025-09-05 20:46:27.448184+00,,495,0495,0495|495a,609
+496,Piano Trio No. 2 in G,Vienna,496,496,G Major,1786,8 July 1786,30,Chamber Music,"Quintets, quartets and trios with piano",2025-09-05 20:46:27.448184+00,,496,0496,0496|496,610
+497,Sonata in F for Piano Four-Hands,Vienna,497,497,F Major,1786,1 August 1786,30,Piano Music,Works for two pianos and for piano four hands,2025-09-05 20:46:27.448184+00,,497,0497,0497|497,611
+498,"Trio in E-flat for Piano, Clarinet and Viola, ""Kegelstatt""",Vienna,498,498,E Flat Major,1786,5 August 1786,30,Chamber Music,"Quintets, quartets and trios with piano",2025-09-05 20:46:27.448184+00,,498,0498,0498|498,612
+498a,Piano Sonata in B-flat,,498a,Anh. C 25.04,B Flat Major,1786,spurious (by August Eberhard Müller); possibly 1st and 3rd movements authentic fragments (still doubtful),30,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,498,0498,0498|498a,613
+499,"String Quartet No. 20 in D, ""Hoffmeister""",Vienna,499,499,D Major,1786,19 August 1786,30,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,499,0499,0499|499,614
+500,12 Variations in B-flat,Vienna,500,500,B Flat Major,1786,12 September 1786,30,Piano Music,Variations for Piano,2025-09-05 20:46:27.448184+00,,500,0500,0500|500,615
+501,5 Variations in G,Vienna,501,501,G Major,1786,4 November 1786,30,Piano Music,Works for two pianos and for piano four hands,2025-09-05 20:46:27.448184+00,,501,0501,0501|501,616
+501a,Allegro for Piano Trio in B-flat (fragment),Vienna,Anh. 51,501a,B Flat Major,1786,1786,30,,,2025-09-05 20:46:27.448184+00,,501,0501,0501|501a,617
+502,Piano Trio No. 3 in B-flat,Vienna,502,502,B Flat Major,1786,18 November 1786,30,Chamber Music,"Quintets, quartets and trios with piano",2025-09-05 20:46:27.448184+00,,502,0502,0502|502,618
+502a,Movement to a Piano Concerto in C (draft to K. 503),Vienna,Anh. 60,502a,C Major,1786,November 1786,30,,,2025-09-05 20:46:27.448184+00,,502,0502,0502|502a,619
+503,Piano Concerto No. 25 in C,Vienna,503,503,C Major,1786,4 December 1786,30,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,503,0503,0503|503,620
+504,"Symphony No. 38 in D, ""Prague""",Vienna,504,504,D Major,1786,6 December 1786,30,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,504,0504,0504|504,621
+504a,Movement to a Symphony in G (in conjunction with K. 504),Vienna,Anh. 105,504a,G Major,1786,December 1786,30,,,2025-09-05 20:46:27.448184+00,,504,0504,0504|504a,622
+505,"Scena and Rondo for Soprano, ""Ch'io mi scordi di te?""",Vienna,505,505,,1786,26 December 1786,30,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,505,0505,0505|505,623
+506,"Song, ""Lied der Freiheit""",Vienna,506,506,,1786,c. end of 1785,30,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,506,0506,0506|506,624
+507,"Canon ""Heiterkeit und Leichtes Blut""",Vienna,,,,1786,,30,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,507,0507,0507|507,625
+508,"Canon ""Auf das Wohl aller Freunde""",Vienna,,,,1786,,30,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,508,0508,0508|508,626
+508A,Canon,Vienna,,,,1786,,30,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,508,0508,0508|508A,627
+508a,14 Intervallkanons,Vienna,,,,1786,,30,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,508,0508,0508|508a,628
+509,6 German Dances,Prague,509,509,,1787,6 February 1787,31,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,509,0509,0509|509,629
+511,Rondo for Piano in A minor,Vienna,511,511,A Minor,1787,11 March 1787,31,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,511,0511,0511|511,630
+512,"Recitative and Aria for Bass, ""Alcandro, lo confesso""",Vienna,512,512,,1787,19 March 1787,31,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,512,0512,0512|512,631
+513,"Aria for Bass, ""Mentre ti lascio""",Vienna,513,513,,1787,23 March 1787,31,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,513,0513,0513|513,632
+514,"Rondo in D for horn and orchestra (actually an arrangement of KV 412,02 by Franz Xaver Süßmayr)",,514,514,D Major,1791,,35,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,514,0514,0514|514,633
+514a,Movement for a String Quintet in B-flat,Vienna,Anh. 80,514a,B Flat Major,1787,1787,31,Chamber Music,String quintets and quintets with winds,2025-09-05 20:46:27.448184+00,,514,0514,0514|514a,634
+515,String Quintet No. 3 in C,Vienna,515,515,C Major,1787,19 April 1787,31,Chamber Music,String quintets and quintets with winds,2025-09-05 20:46:27.448184+00,,515,0515,0515|515,635
+515a,Movement for a String Quintet in F (in conjunction with K. 515c),Vienna,Anh. 87,515a,F Major,1791,not before March 1791,35,,,2025-09-05 20:46:27.448184+00,,515,0515,0515|515a,636
+515c,Movement for a String Quintet in A minor,Vienna,Anh. 79,515c,A Minor,1791,not before March 1791,35,Chamber Music,String quintets and quintets with winds,2025-09-05 20:46:27.448184+00,,515,0515,0515|515c,637
+516,String Quintet No. 4 in G minor,Vienna,516,516,G Minor,1787,16 May 1787,31,Chamber Music,String quintets and quintets with winds,2025-09-05 20:46:27.448184+00,,516,0516,0516|516,638
+516a,Rondo for String quintet in G (fragment),Vienna,Anh. 86,516a,G Major,1787,May 1787,31,,,2025-09-05 20:46:27.448184+00,,516,0516,0516|516a,639
+516c,Allegro for Clarinet Quintet in B-flat (fragment),Vienna,Anh. 91,516c,E Flat Major,1787,1787,31,Chamber Music,String quintets and quintets with winds,2025-09-05 20:46:27.448184+00,,516,0516,0516|516c,640
+516d,Rondo for Clarinet Quintet in E-flat (fragment),Vienna,,516d,E Flat Major,1787,1787,31,,,2025-09-05 20:46:27.448184+00,,516,0516,0516|516d,641
+516f,Musikalisches Würfespiel,Vienna,,,C Major,1787,,31,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,516,0516,0516|516f,642
+517,"Song, ""Die Alte"" (fragment)",Vienna,517,517,,1787,18 May 1787,31,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,517,0517,0517|517,643
+518,"Song, ""Die Verschweigung"" (fragment)",Vienna,518,518,,1787,20 May 1787,31,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,518,0518,0518|518,644
+519,"Song, ""Das Lied der Trennung""",Vienna,519,519,,1787,23 May 1787,31,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,519,0519,0519|519,645
+520,"Song, ""Als Luise die Briefe ihres ungetreuen Liebhabers verbrannte""",Vienna,520,520,,1787,25 May 1787,31,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,520,0520,0520|520,646
+521,Sonata in C for Piano Four-Hands,Vienna,521,521,C Major,1787,29 May 1787,31,Piano Music,Works for two pianos and for piano four hands,2025-09-05 20:46:27.448184+00,,521,0521,0521|521,647
+522,Ein musikalischer Spaß,Vienna,522,522,F Major,1787,14 June 1787,31,Divertimenti/Serenades,Divertimenti for string and wind instruments,2025-09-05 20:46:27.448184+00,,522,0522,0522|522,648
+522a,Rondo for Orchestra in F (in conjunction with K. 522),Vienna,Anh. 108,522a,F Major,1787,14 June 1787,31,,,2025-09-05 20:46:27.448184+00,,522,0522,0522|522a,649
+523,"Song, ""Abendempfindung an Laura""",Vienna,523,523,,1787,24 June 1787,31,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,523,0523,0523|523,650
+524,"Song, ""An Chloe""",Vienna,524,524,,1787,24 June 1787,31,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,524,0524,0524|524,651
+525,"Serenade No. 13 in G, Eine kleine Nachtmusik",Vienna,525,525,G Major,1787,10 August 1787,31,Orchestral Music,"Cassations, Serenades and Divertimenti for orchestra",2025-09-05 20:46:27.448184+00,,525,0525,0525|525,652
+525a,Larghetto for Strings in C (draft to K. 525),Vienna,Anh. 69,525a,C Major,1787,10 August 1787,31,,,2025-09-05 20:46:27.448184+00,,525,0525,0525|525a,653
+526,Violin Sonata No. 35 in A,Vienna,526,526,A Major,1787,24 August 1787,31,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,526,0526,0526|526,654
+526a,Movement to a Violin Sonata in A (draft to K. 526),Vienna,Anh. 50,526a,A Major,1787,24 August 1787,31,,,2025-09-05 20:46:27.448184+00,,526,0526,0526|526a,655
+527,Don Giovanni,Prague,527,527,,1787,28 October 1787,31,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,527,0527,0527|527,656
+528,"Scena for Soprano, ""Bella mia fiamma""",Prague,528,528,,1787,3 November 1787,31,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,528,0528,0528|528,657
+529,"Song, ""Des kleinen Friedrichs Geburtstag""",Prague,529,529,,1787,6 November 1787,31,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,529,0529,0529|529,658
+530,"Song, ""Das Traumbild""",Prague,530,530,,1787,6 November 1787,31,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,530,0530,0530|530,659
+531,"Song, ""Die kleine Spinnerin""",Vienna,531,531,,1787,11 December 1787,31,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,531,0531,0531|531,660
+532,"Terzetto ""Grazie agl'inganni tuoi"" (sketch)",Vienna,,,,1787,,31,Vocal Music (smaller forms),Notturni & Polyphonic singing,2025-09-05 20:46:27.448184+00,,532,0532,0532|532,661
+533,Piano Sonata No. 15 in F,Vienna,533,533,F Major,1788,3 January 1788,32,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,533,0533,0533|533,662
+534,"Contredanse, ""Das Donnerwetter""",Vienna,534,534,D Major,1788,14 January 1788,32,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,534,0534,0534|534,663
+535,"Contredanse, ""La Bataille""",Vienna,535,535,C Major,1788,23 January 1788,32,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,535,0535,0535|535,664
+535a,3 Contredanses,Vienna,,535a,,1788,early 1788,32,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,535,0535,0535|535a,665
+535b,Contredanse in B-flat (fragment),Vienna,Anh. 107,535b,B Flat Major,1788,early 1788,32,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,535,0535,0535|535b,666
+536,6 German Dances,Vienna,536,536,,1788,27 January 1788,32,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,536,0536,0536|536,667
+537,"Piano Concerto No. 26 in D, ""Coronation""",Vienna,537,537,D Major,1788,24 February 1788,32,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,537,0537,0537|537,668
+537a,Movement to a Piano Concerto in D (in conjunction with K. 537),Vienna,Anh. 57,537a,D Major,1788,February 1788,32,,,2025-09-05 20:46:27.448184+00,,537,0537,0537|537a,669
+537b,Movement to a Piano Concerto in D minor (in conjunction with K. 537),Vienna,Anh. 61,537b,D Minor,1788,February 1788,32,,,2025-09-05 20:46:27.448184+00,,537,0537,0537|537b,670
+537c,Movement to a Piano Concerto in E-flat (in conjunction with K. 491),Vienna,Anh. 62,491a,E Flat Major,1786,March 1786,30,,,2025-09-05 20:46:27.448184+00,,537,0537,0537|537c,671
+538,"Aria for Soprano, ""Ah se in ciel""",Vienna,538,538,,1788,4 March 1788,32,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,538,0538,0538|538,672
+539,"Song, ""Ein deutsches Kriegslied""",Vienna,539,539,,1788,5 March 1788,32,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,539,0539,0539|539,673
+540,Adagio in B minor for Piano,Vienna,540,540,B Minor,1788,19 March 1788,32,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,540,0540,0540|540,674
+540a,"Aria for Tenor, ""Dalla sua pace""",Vienna,,540a,,1788,24 April 1788,32,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,540,0540,0540|540a,675
+540b,"Duet for Soprano and Bass, ""Per queste tue manine""",Vienna,,540b,,1788,28 April 1788,32,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,540,0540,0540|540b,676
+540c,"Recitative and Aria for Soprano, ""In quali eccessi … Mi tradì quell'alma ingrata""",Vienna,,540c,,1788,30 April 1788,32,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,540,0540,0540|540c,677
+541,"Arietta for Bass, ""Un bacio di mano""",Vienna,541,541,,1788,May 1788,32,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,541,0541,0541|541,678
+542,Piano Trio No. 4 in E,Vienna,542,542,E Major,1788,22 June 1788,32,Chamber Music,"Quintets, quartets and trios with piano",2025-09-05 20:46:27.448184+00,,542,0542,0542|542,679
+543,Symphony No. 39 in E-flat,Vienna,543,543,E Flat Major,1788,26 June 1788,32,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,543,0543,0543|543,680
+544,"Incipit of ""March in D 'Ein kleiner Marsch'"" (fragment)",Vienna,544,544,D Major,1788,28 June 1788,32,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,544,0544,0544|544,681
+545,"Piano Sonata No. 16 in C, ""'Facile'""",Vienna,545,545,C Major,1788,26 June 1788,32,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,545,0545,0545|545,682
+546,Adagio and Fugue in C minor,Vienna,546,546,C Minor,1788,26 June 1788,32,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,546,0546,0546|546,683
+546a,Allegro for Piano & Violin in G (fragment),Vienna,Anh. 47,546a,G Major,1788,Summer 1787,32,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,546,0546,0546|546a,684
+547,"Violin Sonata No. 36 in F, ""für Anfänger""",Vienna,547,547,F Major,1788,10 July 1788,32,Chamber Music,Sonatas and Variations for Piano and Violin,2025-09-05 20:46:27.448184+00,,547,0547,0547|547,685
+547a,Piano Sonata in F (fragment?),Vienna,Anh. 135,547a,F Major,1788,July 1788,32,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,547,0547,0547|547a,686
+548,Piano Trio No. 5 in C,Vienna,548,548,C Major,1788,14 July 1788,32,Chamber Music,"Quintets, quartets and trios with piano",2025-09-05 20:46:27.448184+00,,548,0548,0548|548,687
+549,"Canzonetta for two Sopranos and Bass, ""Piu non si trovano""",Vienna?,549,549,,1788,16 July 1788,32,Vocal Music (smaller forms),Notturni & Polyphonic singing,2025-09-05 20:46:27.448184+00,,549,0549,0549|549,688
+550,"Symphony No. 40 in G minor, ""Great G minor Symphony""",Vienna,550,550,G Minor,1788,25 July 1788,32,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,550,0550,0550|550,689
+551,"Symphony No. 41 in C, ""Jupiter""",Vienna,551,551,C Major,1788,10 August 1788,32,Orchestral Music,Symphonies,2025-09-05 20:46:27.448184+00,,551,0551,0551|551,690
+552,"Song, ""Beim Auszug in das Feld""",Vienna,552,552,,1788,11 August 1788,32,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,552,0552,0552|552,691
+553,"Canon in C for 4 voices in 1, ""Alleluia""",Vienna,553,553,C Major,1788,2 September 1788,32,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,553,0553,0553|553,692
+554,"Canon in F for 4 voices in 1, ""Ave Maria""",Vienna,554,554,F Major,1788,2 September 1788,32,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,554,0554,0554|554,693
+555,"Canon in A minor for 4 voices in 1, ""Lacrimoso son'io""",Vienna,555,555,A Minor,1788,2 September 1788,32,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,555,0555,0555|555,694
+556,"Canon in G for 4 voices in 1, ""Grechtelt's enk""",Vienna,556,556,G Major,1788,2 September 1788,32,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,556,0556,0556|556,695
+557,"Canon in F minor for 4 voices in 1, ""Nascoso e il mio sol""",Vienna,557,557,F Minor,1788,2 September 1788,32,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,557,0557,0557|557,696
+558,"Canon in B-flat for 4 voices in 1, ""Gehen wir im Prater""",Vienna,558,558,B Flat Major,1788,2 September 1788,32,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,558,0558,0558|558,697
+559,"Canon in F for 3 voices in 1, ""Difficile lectu mihi Mars""",Vienna,559,559,F Major,1788,2 September 1788,32,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,559,0559,0559|559,698
+560,"Canon in F for 4 voices in 1, ""O du eselhafter Peierl""",Vienna,560a,559a,F Major,1788,2 September 1788,32,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,560,0560,0560|560,699
+560,"Canon in F for 4 voices in 1, ""O du eselhafter Martin""",Vienna,560b,560,F Major,1788,2 September 1788,32,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,560,0560,0560|560,700
+561,"Canon in A for 4 voices in 1, ""Bona nox! bist a rechta Ox""",Vienna,561,561,A Major,1788,2 September 1788,32,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,561,0561,0561|561,701
+562,"Canon in A for 3 voices in 1, ""Caro bell'idol mio""",Vienna,562,562,A Major,1788,2 September 1788,32,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,562,0562,0562|562,702
+562a,Canon,Vienna,,,B Flat Major,1788,,32,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,562,0562,0562|562a,703
+562c,Canon in C for 4 voices in 1,Vienna,Anh. 191,562c,C Major,1780,September 1788,24,Vocal Music (smaller forms),Canons,2025-09-05 20:46:27.448184+00,,562,0562,0562|562c,704
+562e,String Trio in G (in conjunction with K. 563),Vienna,Anh. 66,562e,G Major,1788,September 1788,32,Chamber Music,Duos and Trios for Strings and Winds,2025-09-05 20:46:27.448184+00,,562,0562,0562|562e,705
+563,Divertimento in E-flat (Trio in E-flat),Vienna,563,563,E Flat Major,1788,27 September 1788,32,Chamber Music,Duos and Trios for Strings and Winds,2025-09-05 20:46:27.448184+00,,563,0563,0563|563,706
+564,Piano Trio No. 6 in G,Vienna,564,564,G Major,1788,27 October 1788,32,Chamber Music,"Quintets, quartets and trios with piano",2025-09-05 20:46:27.448184+00,,564,0564,0564|564,707
+565,2 Contredanses (lost),Vienna,565,565,,1788,30 October 1788,32,,,2025-09-05 20:46:27.448184+00,,565,0565,0565|565,708
+565a,Contredanse in D (fragment),Vienna,,565a,D Major,1788,October 1788,32,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,565,0565,0565|565a,709
+566,"Instrumentation of Handel's ""Acis & Galatea""",Vienna,,,,1788,,32,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,566,0566,0566|566,710
+567,6 German Dances,Vienna,567,567,,1788,6 December 1788,32,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,567,0567,0567|567,711
+568,12 Minuets,Vienna,568,568,,1788,24 December 1788,32,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,568,0568,0568|568,712
+569,"Aria ""Ohne Zwang"" (lost)",Vienna,569,569,,1789,1789,33,,,2025-09-05 20:46:27.448184+00,,569,0569,0569|569,713
+569a,Sonata movement for Piano in B-flat (fragment),Vienna,Anh. 31,569a,B Flat Major,1787,1787-1789,31,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,569,0569,0569|569a,714
+570,Piano Sonata No. 17 in B-flat,Vienna,570,570,B Flat Major,1789,February 1789,33,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,570,0570,0570|570,715
+571,6 German Dances for Orchestra,Vienna,571,571,,1789,21 February 1789,33,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,571,0571,0571|571,716
+571A,Minuet in A (fragment),Vienna,Anh. 106,571A,A Major,1789,February 1789,33,Vocal Music (smaller forms),Notturni & Polyphonic singing,2025-09-05 20:46:27.448184+00,,571,0571,0571|571A,717
+571a,"Quartet for Soprano, two Tenors and Bass, ""Caro mio Druck und Schluck""",Vienna?,Anh. 5,571a,,1789,c. 1789,33,Vocal Music (smaller forms),Notturni & Polyphonic singing,2025-09-05 20:46:27.448184+00,,571,0571,0571|571a,718
+572,"Instrumentation of Handel's ""The Messiah""",Vienna,,,,1789,,33,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,572,0572,0572|572,719
+572a,Double canon for six voices (lost or unidentified),Leipzig,Anh. 4,572a,,1789,March 1789,33,,,2025-09-05 20:46:27.448184+00,,572,0572,0572|572a,720
+573,9 Variations in D,Potsdam,573,573,D Major,1789,29 April 1789,33,Piano Music,Variations for Piano,2025-09-05 20:46:27.448184+00,,573,0573,0573|573,721
+574,Kleine Gigue in G for Piano,Leipzig,574,574,G Minor,1789,16 May 1789,33,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,574,0574,0574|574,722
+575,"String Quartet No. 21 in D, first of the three ""Prussian Quartets""",Vienna,575,575,D Major,1789,June 1789,33,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,575,0575,0575|575,723
+576,Piano Sonata No. 18 in D,Vienna,576,576,D Major,1789,July 1789,33,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,576,0576,0576|576,724
+576a,Menuet for Piano,Vienna,,,D Major,1789,,33,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,576,0576,0576|576a,725
+577,"Rondo for Soprano, ""Al desio, di chi t'adora""",Vienna,577,577,,1789,July 1789,33,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,577,0577,0577|577,726
+578,"Aria for Soprano, ""Alma grande e nobil core""",Vienna,578,578,,1789,August 1789,33,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,578,0578,0578|578,727
+579,"Aria for Soprano, ""Un moto di gioia mi sento""",Vienna,579,579,,1789,August 1789,33,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,579,0579,0579|579,728
+580,"Aria for Soprano, ""Schon lacht der holde Frühling""",Vienna,580,580,,1789,17 September 1789,33,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,580,0580,0580|580,729
+580a,Adagio for Winds in F,Vienna,Anh. 94,580a,F Major,1789,September 1789,33,Divertimenti/Serenades,Divertimenti and serenades for wind instruments,2025-09-05 20:46:27.448184+00,,580,0580,0580|580a,730
+580b,Movement for a Clarinet Quintet in F,Vienna,Anh. 90,580b,F Major,1789,September 1789,33,Chamber Music,String quintets and quintets with winds,2025-09-05 20:46:27.448184+00,,580,0580,0580|580b,731
+581,Clarinet Quintet in A,Vienna,581,581,A Major,1789,29 September 1789,33,Chamber Music,String quintets and quintets with winds,2025-09-05 20:46:27.448184+00,,581,0581,0581|581,732
+581a,Movement for a Clarinet Quintet in A,Vienna,Anh. 88,581a,A Major,1789,September 1789,33,Chamber Music,String quintets and quintets with winds,2025-09-05 20:46:27.448184+00,,581,0581,0581|581a,733
+582,"Aria for Soprano, ""Chi sà, chi sà, qual sia""",Vienna,582,582,,1789,October 1789,33,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,582,0582,0582|582,734
+583,"Aria for Soprano, ""Vado, ma dove? -- oh Dei!""",Vienna,583,583,,1789,October 1789,33,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,583,0583,0583|583,735
+584,"Aria for bass, ""Rivolgete a lui lo sguardo""",Vienna,584,584,,1789,December 1789,33,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,584,0584,0584|584,736
+584b,Basset horn Concerto in G (fragment),Vienna,584b,621b,G Major,1787,October 1791,31,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,584,0584,0584|584b,737
+585,12 Minuets,Vienna,585,585,,1789,December 1789,33,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,585,0585,0585|585,738
+586,12 German Dances,Vienna,586,586,,1789,December 1789,33,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,586,0586,0586|586,739
+587,"Contredanse in C, ""Der Sieg vom Helden Koburg""",Vienna,587,587,C Major,1789,December 1789,33,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,587,0587,0587|587,740
+587a,Allegro for String Quartet in G minor (fragment),Vienna,Anh. 85,587a,G Minor,1789,End 1789,33,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,587,0587,0587|587a,741
+588,Così fan tutte,Vienna,588,588,,1790,26 January 1790,34,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,588,0588,0588|588,742
+589,"String Quartet No. 22 in B-flat, second of three ""Prussian Quartets""",Vienna,589,589,B Flat Major,1790,May 1790,34,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,589,0589,0589|589,743
+589a,Movement for a String Quintet B-flat (in conjunction with K. 590),Vienna,Anh. 68,589a,B Flat Major,1782,May 1790,26,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,589,0589,0589|589a,744
+589b,Movement for a String Quintet F (in conjunction with K. 590),Vienna,Anh. 73,589b,,1790,May 1790,34,,,2025-09-05 20:46:27.448184+00,,589,0589,0589|589b,745
+590,"String Quartet No. 23 in F, third of the three ""Prussian Quartets""",Vienna,590,590,F Major,1790,June 1790,34,Chamber Music,String Quartets and Quartets with a Wind Instrument,2025-09-05 20:46:27.448184+00,,590,0590,0590|590,746
+590a,Sonata movement for Piano in F (fragment),Vienna,Anh. 29,590a,F Major,1787,1787-1789,31,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,590,0590,0590|590a,747
+590b,Rondo for Piano in F (fragment),Vienna,Anh. 30,590b,F Major,1787,1787-1789,31,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,590,0590,0590|590b,748
+590c,Rondo for Piano in F (fragment),Vienna,Anh. 37,590c,F Major,1787,1787-1789,31,Piano Music,Piano sonatas,2025-09-05 20:46:27.448184+00,,590,0590,0590|590c,749
+591,"Instrumentation of Handel's ""Alexander's Feast""",Vienna,,,,1790,,34,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,591,0591,0591|591,750
+592,"Instrumentation of Handel's ""Ode to Saint Cecilia""",Vienna,,,,1790,,34,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,592,0592,0592|592,751
+592b,Movement for a String Quintet in D (draft for K. 593),Vienna,Anh. 83,592b,D Major,1787,August 1790,31,Chamber Music,String quintets and quintets with winds,2025-09-05 20:46:27.448184+00,,592,0592,0592|592b,752
+593,String Quintet No. 5 in D,Vienna,593,593,D Major,1790,December 1790,34,Chamber Music,String quintets and quintets with winds,2025-09-05 20:46:27.448184+00,,593,0593,0593|593,753
+593a,Adagio for Organ in D minor (fragment),Vienna,Anh. 35,593a,D Minor,1790,December 1790,34,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,593,0593,0593|593a,754
+594,Adagio and Allegro in F minor for Mechanical Organ,Vienna and ?,594,594,F Minor,1790,October - December 1790,34,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,594,0594,0594|594,755
+595,Piano Concerto No. 27 in B-flat,Vienna,595,595,B Flat Major,1791,5 January 1791,35,Concertos,Concertos for piano,2025-09-05 20:46:27.448184+00,,595,0595,0595|595,756
+596,"Song, ""Sehnsucht nach dem Frühling""",Vienna,596,596,,1791,14 January 1791,35,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,596,0596,0596|596,757
+597,"Song, ""Im Frülingsanfang""",Vienna,597,597,,1791,14 January 1791,35,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,597,0597,0597|597,758
+598,"Song, ""Das Kinderspiel""",Vienna,598,598,,1791,14 January 1791,35,Vocal Music (smaller forms),Lieder,2025-09-05 20:46:27.448184+00,,598,0598,0598|598,759
+599,6 Minuets,Vienna,599,599,,1791,23 January 1791,35,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,599,0599,0599|599,760
+600,6 German Dances,Vienna,600,600,,1791,29 January 1791,35,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,600,0600,0600|600,761
+601,4 Minuets,Vienna,601,601,,1791,5 February 1791,35,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,601,0601,0601|601,762
+602,4 German Dances,Vienna,602,602,,1791,5 February 1791,35,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,602,0602,0602|602,763
+603,2 Contredanses,Vienna,603,603,,1791,5 February 1791,35,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,603,0603,0603|603,764
+604,2 Minuets,Vienna,604,604,,1791,12 February 1791,35,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,604,0604,0604|604,765
+605,3 German Dances,Vienna,605,605,,1791,12 February 1791,35,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,605,0605,0605|605,766
+606,"6 ""Ländler""",Vienna,606,606,B Flat Major,1791,28 February 1791,35,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,606,0606,0606|606,767
+607,"Contredanse, ""Il Trionfo delle Donne"" (fragment)",Vienna,607,605a,E Flat Major,1791,28 February 1791,35,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,607,0607,0607|607,768
+608,Fantasia in F minor for a Mechanical Organ,Vienna,608,608,F Minor,1791,3 March 1791,35,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,608,0608,0608|608,769
+609,5 Contredanses,Vienna,609,609,,1791,1791,35,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,609,0609,0609|609,770
+610,"Contredanse, ""Les filles malicieuses""",Vienna,610,610,G Major,1787,6 March 1791,31,Orchestral Music,Dances and Marches,2025-09-05 20:46:27.448184+00,,610,0610,0610|610,771
+611,German Dance,Vienna,611,611,,1791,6 March 1791,35,,,2025-09-05 20:46:27.448184+00,,611,0611,0611|611,772
+612,"Aria for Bass, ""Per questa bella mano""",Vienna,612,612,,1791,8 March 1791,35,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,612,0612,0612|612,773
+613,"8 Variations in F on ""Ein Weib ist das herrlichste Ding""",Vienna,613,613,F Major,1791,March 1791,35,Piano Music,Variations for Piano,2025-09-05 20:46:27.448184+00,,613,0613,0613|613,774
+613a,Allegro for String Quintet in E-flat (fragment),Vienna,Anh. 81,613a,E Flat Major,1784,March 1791,28,Chamber Music,String quintets and quintets with winds,2025-09-05 20:46:27.448184+00,,613,0613,0613|613a,775
+613b,Allegro for String Quintet in E-flat (fragment),Vienna,Anh. 82,613b,E Flat Major,1786,March 1791,30,Chamber Music,String quintets and quintets with winds,2025-09-05 20:46:27.448184+00,,613,0613,0613|613b,776
+614,String Quintet No. 6 in E-flat,Vienna,614,614,E Flat Major,1791,12 April 1791,35,Chamber Music,String quintets and quintets with winds,2025-09-05 20:46:27.448184+00,,614,0614,0614|614,777
+615,"Chorus ""Viviamo felici"" (lost)",Vienna,615,615,,1791,1791,35,,,2025-09-05 20:46:27.448184+00,,615,0615,0615|615,778
+615a,Andante in F for a Small Mechanical Organ,Vienna,,615a,F Major,1791,1791,35,,,2025-09-05 20:46:27.448184+00,,615,0615,0615|615a,779
+616,Andante in F for a Small Mechanical Organ,Vienna,616,616,F Major,1791,4 May 1791,35,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,616,0616,0616|616,780
+616a,"Fantasia in C for glass harmonica, flute, oboe, viola, and cello (fragment)",Vienna,,616a,C Major,1791,April-June 1791,35,,,2025-09-05 20:46:27.448184+00,,616,0616,0616|616a,781
+617,"Adagio and Rondo for glass harmonica, flute, oboe, viola and cello",Vienna,617,617,C Minor,1791,23 May 1791,35,Chamber Music,"Quintets, quartets and trios with piano",2025-09-05 20:46:27.448184+00,,617,0617,0617|617,782
+618,"Motet in D, ""Ave verum Corpus""",Baden,618,618,D Major,1791,17 June 1791,35,Sacred Works,Smaller Church Works,2025-09-05 20:46:27.448184+00,,618,0618,0618|618,783
+619,"Cantata, ""Die ihr des unermeßlichen Weltalls""",Vienna,619,619,,1791,July 1791,35,Sacred Works,"Oratorios, Sacred Singspiels and Cantatas",2025-09-05 20:46:27.448184+00,,619,0619,0619|619,784
+620,Die Zauberflöte,Vienna,620,620,,1791,30 September 1791,35,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,620,0620,0620|620,785
+620a,Overture in E-flat (draft to Die Zauberflöte),Vienna,Anh. 102,620a,E Flat Major,1791,September 1791,35,,,2025-09-05 20:46:27.448184+00,,620,0620,0620|620a,786
+621,La clemenza di Tito,Prague,621,621,,1791,6 September 1791,35,Vocal Music with Orchestra,Operas and Singspiels,2025-09-05 20:46:27.448184+00,,621,0621,0621|621,787
+621a,"Aria for Bass, ""Io ti lascio, o cara, addio""",Prague?,Anh. 245,621a,,1791,c. September 1791,35,Vocal Music with Orchestra,"Arias, scenes, ensembles and choirs with orchestra",2025-09-05 20:46:27.448184+00,,621,0621,0621|621a,788
+622,Clarinet Concerto in A,Vienna,622,622,A Major,1791,October 1791,35,Concertos,"Concertos for one or more string, wind",2025-09-05 20:46:27.448184+00,,622,0622,0622|622,789
+623,Little Masonic Cantata [es],Vienna,623,623,,1791,15 November 1791,35,Sacred Works,"Oratorios, Sacred Singspiels and Cantatas",2025-09-05 20:46:27.448184+00,,623,0623,0623|623,790
+623a,"Song, ""Laßt uns mit geschlungnen Händen"" (intended final chorus to K. 623; doubtful)",Vienna,,623a,,1791,November 1791,35,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,623,0623,0623|623a,791
+625,"Comic duet ""Nun liebes Weibchen""",Vienna,,,,1790,,34,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,625,0625,0625|625,792
+626,Requiem in D minor,Vienna,626,626,D Minor,1791,October-December 1791,35,Sacred Works,Masses and Requiem,2025-09-05 20:46:27.448184+00,,626,0626,0626|626,793
+626a,Modulating Prelude,Salzburg,,,G Major,1776,,20,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,626,0626,0626|626a,794
+626b,Fugue,Vienna,,,C Minor,1780,,24,Supplement,Supplement,2025-09-05 20:46:27.448184+00,,626,0626,0626|626b,795
+626b/01,Four sketch leaves (lost),,,,,,,,,,2025-09-05 20:46:27.448184+00,,626,0626,0626|626b/01,796
+"626b/03,01","Sketch leaf (doubtful, lost)",,,,,,,,,,2025-09-05 20:46:27.448184+00,,626,0626,"0626|626b/03,01",797
+"626b/03,02","Sketch leaf (doubtful, lost)",,,,,,,,,,2025-09-05 20:46:27.448184+00,,626,0626,"0626|626b/03,02",798
+"626b/03,03",Sketch leaf,,,,,,,,,,2025-09-05 20:46:27.448184+00,,626,0626,"0626|626b/03,03",799
+626b/05,"""Musique"" (lost)",,,,,,,,,,2025-09-05 20:46:27.448184+00,,626,0626,0626|626b/05,800
+626b/15,Untitled (lost),,,,,,,,,,2025-09-05 20:46:27.448184+00,,626,0626,0626|626b/15,801
+626b/22,"""Fragment of a duetto"" (lost)",,,,,,,,,,2025-09-05 20:46:27.448184+00,,626,0626,0626|626b/22,802
+626b/49,"""Marcia"" (lost)",,,,,,,,,,2025-09-05 20:46:27.448184+00,,626,0626,0626|626b/49,803
+626b/50,"""Sketch leaf"" (lost)",,,,,,,,,,2025-09-05 20:46:27.448184+00,,626,0626,0626|626b/50,804
+626b/51,"""A few bars of music"" (lost)",,,,,,,,,,2025-09-05 20:46:27.448184+00,,626,0626,0626|626b/51,805
+626b/52,"""Musical manuscript"" (lost)",,,,,,,,,,2025-09-05 20:46:27.448184+00,,626,0626,0626|626b/52,806
+626b/53,"""Viola part for a contradance"" (lost)",,,,,,,,,,2025-09-05 20:46:27.448184+00,,626,0626,0626|626b/53,807
+626b/55,"""Autograph musical manuscript"" (lost)",,,,,,,,,,2025-09-05 20:46:27.448184+00,,626,0626,0626|626b/55,808
+626b/56,"""Autograph musical manuscript"" (lost)",,,,,,,,,,2025-09-05 20:46:27.448184+00,,626,0626,0626|626b/56,809
+626c,Finger Exercises,Vienna,,,,1780,,24,Piano Music,Piano Pieces,2025-09-05 20:46:27.448184+00,,626,0626,0626|626c,810
+627,Clavier concerto movement (lost),Salzburg,,,,1763,9 June 1763,7,,,2025-09-05 20:46:27.448184+00,,627,0627,0627|627,811
+628,Divertimento in C for piano four hands (lost),London,,,C Major,1764,1764-1765,8,,,2025-09-05 20:46:27.448184+00,,628,0628,0628|628,812
+629,Two piano pieces (second is a fragment),,,,,1765,1765,9,,,2025-09-05 20:46:27.448184+00,,629,0629,0629|629,813
+630,Violin Sonata in D major (doubtful),,,,D Major,1766,1766,10,,,2025-09-05 20:46:27.448184+00,,630,0630,0630|630,814
+631,Arias for voice and orchestra (lost),"London, The Hague",,,,1765,1765-1766,9,,,2025-09-05 20:46:27.448184+00,,631,0631,0631|631,815
+632,Instrumental piece in C (doubtful),,,,C Major,1765,1765-1766,9,,,2025-09-05 20:46:27.448184+00,,632,0632,0632|632,816
+633,"Aria ""Quel destrier che all'albergo è vicino"" (doubtful, lost)","London, The Hague",,,,1765,1765-1766,9,,,2025-09-05 20:46:27.448184+00,,633,0633,0633|633,817
+634,Polonaise in F (doubtful),,,,F Major,1767,1767,11,,,2025-09-05 20:46:27.448184+00,,634,0634,0634|634,818
+635,"Piano Piece in G (fragment, doubtful)",Salzburg,,,G Major,1767,1767,11,,,2025-09-05 20:46:27.448184+00,,635,0635,0635|635,819
+636,Concerto movement in G (doubtful),Salzburg,,,G Major,1767,1767,11,,,2025-09-05 20:46:27.448184+00,,636,0636,0636|636,820
+637,"Song ""Oragna figata fa marina gamina fa"" for 1 or 2 voices (fragment)",,,,,1766,1766,10,,,2025-09-05 20:46:27.448184+00,,637,0637,0637|637,821
+638,Instrumental piece in G-sharp minor for orchestra,,,,G Sharp Minor,1766,1766,10,,,2025-09-05 20:46:27.448184+00,,638,0638,0638|638,822
+639,"Piece for Maximilian III Joseph, Elector of Bavaria (lost)",,,,,1766,9 November 1766,10,,,2025-09-05 20:46:27.448184+00,,639,0639,0639|639,823
+640,Solos for violin (lost),,,,,1766,1766 - September 1768,10,,,2025-09-05 20:46:27.448184+00,,640,0640,0640|640,824
+641,Solos for viola da gamba (lost),,,,,1766,1766 - September 1768,10,,,2025-09-05 20:46:27.448184+00,,641,0641,0641|641,825
+642,Aria for Nepomucena Wolff (lost),Olomouc,,,,1767,1767,11,,,2025-09-05 20:46:27.448184+00,,642,0642,0642|642,826
+643,Symphonies (lost),,,,,1768,1768,12,,,2025-09-05 20:46:27.448184+00,,643,0643,0643|643,827
+644,Arias (lost),Vienna,,,,1768,July 1768,12,,,2025-09-05 20:46:27.448184+00,,644,0644,0644|644,828
+645,Six trios for two violins and cello (lost),,,,,1768,September 1768,12,,,2025-09-05 20:46:27.448184+00,,645,0645,0645|645,829
+646,"Aria ""Cara, se le mie pene"" for soprano and orchestra",,,,,1769,1769,13,,,2025-09-05 20:46:27.448184+00,,646,0646,0646|646,830
+647,Aria in D for soprano and orchestra (fragment),,,,D Major,1769,1769,13,,,2025-09-05 20:46:27.448184+00,,647,0647,0647|647,831
+648,"Serenade in C ""Ganz kleine Nachtmusik"" for two violins and bass",,,,C Major,1766,1766-1769,10,,,2025-09-05 20:46:27.448184+00,,648,0648,0648|648,832
+649,Piano piece in C (doubtful),,,,C Major,1769,1769,13,,,2025-09-05 20:46:27.448184+00,,649,0649,0649|649,833
+650,Allegro in C for clavier (doubtful),,,,C Major,1769,1769,13,,,2025-09-05 20:46:27.448184+00,,650,0650,0650|650,834
+651,Two Latin motets for soprano and orchestra (lost),Milan,,,,1770,February 1770,14,,,2025-09-05 20:46:27.448184+00,,651,0651,0651|651,835
+652,"Motet ""Venti, fulgura, procellae"" for soprano and orchestra (doubtful)",Milan,,,,1770,1770-1780,14,,,2025-09-05 20:46:27.448184+00,,652,0652,0652|652,836
+653,Cassation in C (lost),,,,C Major,1764,1764 - September 1771,8,,,2025-09-05 20:46:27.448184+00,,653,0653,0653|653,837
+654,"Offertory ""O supremum coeli Numen"" (doubtful)",,,,,1771,1771,15,,,2025-09-05 20:46:27.448184+00,,654,0654,0654|654,838
+655,Two Church Sonatas in D and G (lost),Salzburg,,,D Major,1771,1771,15,,,2025-09-05 20:46:27.448184+00,,655,0655,0655|655,839
+656,Piano piece in C (fragment),,,,C Major,1771,1771,15,,,2025-09-05 20:46:27.448184+00,,656,0656,0656|656,840
+657,Nine piano pieces (doubtful),Milan,,,,1771,7 September 1771,15,,,2025-09-05 20:46:27.448184+00,,657,0657,0657|657,841
+658,"Ballet for ""Ascanio in Alba"" K. 111 (fragment, doubtful)",Milan,Anh. 207,Anh. C 27.06,,1771,1771,15,,,2025-09-05 20:46:27.448184+00,,658,0658,0658|658,842
+659,Twelve variations for clavier (doubtful),Milan,Anh. 207,Anh. C 27.06,,1771,1771,15,,,2025-09-05 20:46:27.448184+00,,659,0659,0659|659,843
+660,Fugue in D minor for clavier (fragment),Salzburg,,,D Minor,1771,1771-1773,15,,,2025-09-05 20:46:27.448184+00,,660,0660,0660|660,844
+661,Four minuets for dance ensemble (fourth is a fragment),Salzburg,,,,1772,June 1772,16,,,2025-09-05 20:46:27.448184+00,,661,0661,0661|661,845
+662,"Twelve songs for voice and ""Harmoniale"" (doubtful)",Salzburg or Vienna,,,,1774,1774,18,,,2025-09-05 20:46:27.448184+00,,662,0662,0662|662,846
+663,Orchestral piece in E-flat (fragment),,,,E Flat Major,1773,1773,17,,,2025-09-05 20:46:27.448184+00,,663,0663,0663|663,847
+664,"Melodic notation in B-flat, probably for dance ensemble ""Le matelot"" (fragment)",Salzburg,,,B Flat Major,1773,1773,17,,,2025-09-05 20:46:27.448184+00,,664,0664,0664|664,848
+665,Trio in C,,,,C Major,1773,1773,17,,,2025-09-05 20:46:27.448184+00,,665,0665,0665|665,849
+666,Divertimento in D for two solo violins and orchestra (fragment),,KV3 Anh. 223c,Anh. A 50,D Major,1773,1773-1775,17,,,2025-09-05 20:46:27.448184+00,,666,0666,0666|666,850
+667,"Recitative ""Campagne amene"" for soprano and orchestra (for K. 208 No. 3)",Salzburg,,,,1775,1775,19,,,2025-09-05 20:46:27.448184+00,,667,0667,0667|667,851
+668,Operetta (lost),Salzburg,,,,1776,19 February 1776,20,,,2025-09-05 20:46:27.448184+00,,668,0668,0668|668,852
+669,Vocal movement in C,Salzburg,,,C Major,1776,1776,20,,,2025-09-05 20:46:27.448184+00,,669,0669,0669|669,853
+670,Overture in D (fragment),Salzburg,,,D Major,1776,1776,20,,,2025-09-05 20:46:27.448184+00,,670,0670,0670|670,854
+671,Modulating Prelude (F-e),,,,,1776,1776-1777,20,,,2025-09-05 20:46:27.448184+00,,671,0671,0671|671,855
+672,"Antiphon ""Alma Redemptoris Mater"" in F (lost)",Salzburg,,,F Major,1777,23 September 1777,21,,,2025-09-05 20:46:27.448184+00,,672,0672,0672|672,856
+673,Flute Concerto (lost or unrealised),"Mannheim, Paris",,,,1777,1777-1778,21,,,2025-09-05 20:46:27.448184+00,,673,0673,0673|673,857
+674,Two dance movements in D for orchestra (fragment),Paris,,,D Major,1778,1778,22,,,2025-09-05 20:46:27.448184+00,,674,0674,0674|674,858
+675,Piece in B-flat for dance ensemble or orchestra (fragment),,,,B Flat Major,1778,1778,22,,,2025-09-05 20:46:27.448184+00,,675,0675,0675|675,859
+676,March (lost),,,,,1780,1780,24,,,2025-09-05 20:46:27.448184+00,,676,0676,0676|676,860
+677,Church Sonata in C (lost),,,,C Major,1780,1780,24,,,2025-09-05 20:46:27.448184+00,,677,0677,0677|677,861
+678,Cantata (lost or unrealised),,,,,1781,June-September 1781,25,,,2025-09-05 20:46:27.448184+00,,678,0678,0678|678,862
+679,Instrumental piece in B-flat (probably for 12 winds and double bass; fragment),,,,B Flat Major,1781,1781,25,,,2025-09-05 20:46:27.448184+00,,679,0679,0679|679,863
+680,String Quartet Movement in E (fragment),,,,E Major,1781,1781,25,,,2025-09-05 20:46:27.448184+00,,680,0680,0680|680,864
+681,Larghetto and Allegro in E-flat for 2 pianos (fragment completed by Maximilian Stadler),,,,E Flat Major,1781,1781-1783,25,,,2025-09-05 20:46:27.448184+00,,681,0681,0681|681,865
+682,Instrumental piece in C (probably for dance ensemble; fragment),,,,C Major,1782,1782,26,,,2025-09-05 20:46:27.448184+00,,682,0682,0682|682,866
+683,"Duet ""Ho un pensiero nel cervello"" for soprano, tenor, and orchestra (fragment for ""L'oca del Cairo"", K. 422)",,,,,1783,June-September 1783,27,,,2025-09-05 20:46:27.448184+00,,683,0683,0683|683,867
+684,"Rondo (fragment) and lost piece for ""Pianoforte de l'harmonie parfaite"" (doubtful)",,,,,1783,1783 (up to November),27,,,2025-09-05 20:46:27.448184+00,,684,0684,0684|684,868
+685,Aria in B-flat for bass (fragment),,,,B Flat Major,1783,1783,27,,,2025-09-05 20:46:27.448184+00,,685,0685,0685|685,869
+686,Trio (probably for 2 violins and cello) in C minor (fragment),,,,C Minor,1783,1783,27,,,2025-09-05 20:46:27.448184+00,,686,0686,0686|686,870
+687,Trio movement (probably for 2 violins and cello) in C (fragment),,,,C Major,1783,1783,27,,,2025-09-05 20:46:27.448184+00,,687,0687,0687|687,871
+688,Violin sonata movement in C (fragment),,,,C Major,1784,21 April 1784,28,,,2025-09-05 20:46:27.448184+00,,688,0688,0688|688,872
+689,Aria for Margarethe Marchand (lost or unrealised),,,,,1784,21 July 1784,28,,,2025-09-05 20:46:27.448184+00,,689,0689,0689|689,873
+690,Instrumental piece in G for piano or dance ensemble (fragment),,,,G Major,1784,1784-1787,28,,,2025-09-05 20:46:27.448184+00,,690,0690,0690|690,874
+691,Melodic notation in F (fragment),Vienna,K3. Anh. 190a/[01],626b/32 (1),F Major,1784,1784-1787,28,,,2025-09-05 20:46:27.448184+00,,691,0691,0691|691,875
+692,Two Freemason songs (lost),,,,,1785,1785,29,,,2025-09-05 20:46:27.448184+00,,692,0692,0692|692,876
+693,Orchestral piece in E minor (fragment),,,,E Minor,1785,1785,29,,,2025-09-05 20:46:27.448184+00,,693,0693,0693|693,877
+694,Allegro in D for orchestra (fragment),,,,D Major,1785,1785-1786,29,,,2025-09-05 20:46:27.448184+00,,694,0694,0694|694,878
+695,Piano piece in C (fragment),,,,C Major,1785,1785-1786,29,,,2025-09-05 20:46:27.448184+00,,695,0695,0695|695,879
+696,Canon in E-flat for 3 sopranos and bass,,,,E Flat Major,1785,1785,29,,,2025-09-05 20:46:27.448184+00,,696,0696,0696|696,880
+697,Trio movement in C (fragment),,,,C Major,1785,1785,29,,,2025-09-05 20:46:27.448184+00,,697,0697,0697|697,881
+698,Theme in B-flat (fragment),,,,B Flat Major,1785,1785,29,,,2025-09-05 20:46:27.448184+00,,698,0698,0698|698,882
+699,"Duet ""Ich nenne dich, ohn' es zu wissen"" in B-flat for two voices (discant) and piano (fragment)",,Anh. 24,626b/26,B Flat Major,1785,1785-1787,29,,,2025-09-05 20:46:27.448184+00,,699,0699,0699|699,883
+700,"""Giunse il momento alfine"" - ""Non tardar, amato bene"" (fragment; predecessor of aria ""Giunse alfin il momento - Deh vieni non tardar"" from ""Le nozze di Figaro"", K. 492)",,,,,1786,March-June 1786,30,,,2025-09-05 20:46:27.448184+00,,700,0700,0700|700,884
+701,Melodic notation in C minor (fragment),,,,C Minor,1785,1785-1786,29,,,2025-09-05 20:46:27.448184+00,,701,0701,0701|701,885
+702,Melodic notation in C minor (fragment),,,,C Minor,1785,1785-1786,29,,,2025-09-05 20:46:27.448184+00,,702,0702,0702|702,886
+703,Instrumental piece in A-flat (fragment?),,,,A Flat Major,1787,1787,31,,,2025-09-05 20:46:27.448184+00,,703,0703,0703|703,887
+704,Melodic notation in G minor (fragment),,,,G Minor,1787,1787,31,,,2025-09-05 20:46:27.448184+00,,704,0704,0704|704,888
+705,Melodic notation in G (fragment),,,,G Major,1787,1787,31,,,2025-09-05 20:46:27.448184+00,,705,0705,0705|705,889
+706,"Vocal movement in D minor (fragment, without text)",Vienna,,,D Minor,1787,1787,31,,,2025-09-05 20:46:27.448184+00,,706,0706,0706|706,890
+707,Credo in D (fragment),Vienna,,,D Major,1787,1787,31,,,2025-09-05 20:46:27.448184+00,,707,0707,0707|707,891
+708,Adagio in B minor for piano (fragment; predecessor of K. 540),,,,B Minor,1788,1788,32,,,2025-09-05 20:46:27.448184+00,,708,0708,0708|708,892
+709,Melodic notation in C (probably for dance ensemble),,,,C Major,1785,1785-1788,29,,,2025-09-05 20:46:27.448184+00,,709,0709,0709|709,893
+710,Allegretto in B-flat (for piano or dance ensemble; fragment),,,,B Flat Major,1785,1785-1788,29,,,2025-09-05 20:46:27.448184+00,,710,0710,0710|710,894
+711,Instrumental piece in B-flat (for piano or dance ensemble; fragment),,,,B Flat Major,1787,1787-1788,31,,,2025-09-05 20:46:27.448184+00,,711,0711,0711|711,895
+712,"Recitative ""Ahi, cosa veggio!"" for soprano and orchestra for aria K. 583 ""Vado, ma dove? Oh Dei!"" (doubtful)",,,,,1789,October-November 1789,33,,,2025-09-05 20:46:27.448184+00,,712,0712,0712|712,896
+713,"Recitative ""No, caro, fa coraggio e in me ti fida"" for soprano and orchestra (doubtful)",,,,,1790,July-August 1790,34,,,2025-09-05 20:46:27.448184+00,,713,0713,0713|713,897
+714,Der Stein der Weisen: three contributions in Act II (doubtful),,,,,1790,1790 (by 11 September),34,,,2025-09-05 20:46:27.448184+00,,714,0714,0714|714,898
+715,"Recitative ""Ah, da me s'allontani"" for soprano and orchestra for aria K. 419 ""No, che non sei capace"" (doubtful)",,,,,1791,1791 (by 16 April),35,,,2025-09-05 20:46:27.448184+00,,715,0715,0715|715,899
+716,"Duet ""Pamina, wo bist du?"" for tenor, bass, and orchestra for K. 620 ""Die Zauberflöte"" (probably a fragment; doubtful)",,,,,1791,June-September 1791,35,,,2025-09-05 20:46:28.676547+00,,716,0716,0716|716,900
+717,"Aria ""Se mai senti spirarti sul volto"" (lost, doubtful)",,,,,,,,,,2025-09-05 20:46:28.676547+00,,717,0717,0717|717,901
+718,Adagio in F for string quartet (lost),,,,F Major,1781,1781,25,,,2025-09-05 20:46:28.676547+00,,718,0718,0718|718,902
+719,"Two German dances in E and C for 2 violins and bass (fragments, doubtful)",,,,E Major,,,,,,2025-09-05 20:46:28.676547+00,,719,0719,0719|719,903
+720,Melodic notation in D,Salzburg,KV2 Anh. 109d,73x/03,D Major,1772,1772,16,,,2025-09-05 20:46:28.676547+00,,720,0720,0720|720,904
+721,"Song, Prüfung des Küssens ""Meine weise Mutter spricht"" (lost, doubtful)",,KV3 Anh. 255a,Anh.C 8.16,,1784,1784,28,,,2025-09-05 20:46:28.676547+00,,721,0721,0721|721,905
+Anh.A 16,Piano Concerto No. 4 in G,Salzburg,41,41,G Major,1767,July 1767,11,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 16,906
+"Anh.A 20, 21","""Cibavit eos"" (transcription of music by Johann Stadlmayr)",Bologna,44,73u,,1770,early August 1770,14,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.A 20, 21",907
+Anh.A 22,"""De profundis clamavi"" in C minor[7]",,93,Anh. A 22,C Minor,,spurious (by Johann Georg Reutter),,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 22,908
+Anh.A 27,"4 Contredanses, (Serenade No. 2); actually by Michael Haydn",,101,250a,,,,,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 27,909
+Anh.A 28,6 Minuets (actually by Michael Haydn),,104,61e,,,,,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 28,910
+Anh.A 29,3 Concerti for Piano after J.C. Bach,Salzburg,107;21b,107,,1770,Winter 1770-1772,14,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 29,911
+Anh.A 34,Minuet in E-flat,Bologna,122,73t,E Flat Major,1770,early August 1770,14,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 34,912
+Anh.A 35,"Sketch of a Ballet ""Le gelosie del Seraglio"" (one trio is K. 665; the rest is K9 Anh.A 35 as an arrangement of work by Josef Starzer and François Granier)",Salzburg and Milan,Anh. 109,135a,,1772,December 1772,16,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 35,913
+Anh.A 36,"Aria (canzonetta) for voice and Piano ""Ridente la calma"" (arranged from Josef Myslive?ek)",Salzburg?,152,210a,,1772,1772 and 1775,16,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 36,914
+Anh.A 37,In te Domine in C (fragment),Salzburg,Anh. 23,166h,C Major,1772,1772,16,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 37,915
+Anh.A 39,"Canon in B-flat for 3 voices in 1, ""Leck mir den Arsch fein recht schön sauber"" (Wenzel Trnka)",Vienna,233,382d,B Flat Major,1782,1782,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 39,916
+Anh.A 40,"Canon in G for 3 voices in 1, ""Bei der Hitz im Sommer eß ich"" (Wenzel Trnka)",Vienna,234,382e,G Major,1782,1782,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 40,917
+Anh.A 41,"Andantino for Piano in E-flat (arranged from Christoph Willibald Gluck, ""Non vi turbate"")",Vienna,236,588b/Anh. 36,E Flat Major,1790,1790,34,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 41,918
+Anh.A 42,"(Flute?) Concerto, really by Johann Baptist Wendling",Mannheim,,284e,,1777,November 1777,21,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 42,919
+Anh.A 46,Arrangement of 5 Fugues by J.S. Bach,Vienna,405,405,,1782,1782,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 46,920
+Anh.A 47.01,"Notturno for Two Sopranos and Bass, ""Due pupille"" (Gottfried von Jacquin)",Vienna?,439,439,,1783,c. 1783-1786,27,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 47.01,921
+Anh.A 47.02,"Notturno for Two Sopranos and Bass, ""Se lontan"" (Gottfried von Jacquin)",Vienna?,438,438,,1783,c. 1783-1786,27,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 47.02,922
+Anh.A 47.03,"Notturno for Two Sopranos and Bass, ""Ecco quel fiero"" (Gottfried von Jacquin)",Vienna,436,436,,1783,1783,27,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 47.03,923
+Anh.A 47.04,"Notturno for Two Sopranos and Bass, ""Mi lagnerò tacendo"" (Gottfried von Jacquin)",Vienna,437,437,,1783,1783,27,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 47.04,924
+Anh.A 47.05,"Notturno for Two Sopranos and Bass, ""Luci care, luci belle"" (Gottfried von Jacquin)",Vienna?,346,439a,,1783,c. 1783-1786,27,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 47.05,925
+Anh.A 48,Instrumentation for a Concerto for Violin by G.B. Viotti,Vienna,,470a,,1785,April 1785,29,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 48,926
+Anh.A 51,Symphony No. 3 in E-flat,spurious (by Carl Friedrich Abel; Mozart substituted two clarinets for 2 oboes),18,Anh. A 51,E Flat Major,,spurious (by Carl Friedrich Abel; Mozart substituted two clarinets for 2 oboes),2,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 51,927
+Anh.A 52,Fugue in D major,,291,Anh. A 52,D Major,,spurious; by Michael Haydn,,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 52,928
+Anh.A 53,"Symphony No. 37 in G, Introduction to Symphony No. 25 by Michael Haydn (previously all was Symphony No. 37 in G)",Vienna,444,425a,G Major,1783,late 1783 or 1784,27,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 53,929
+Anh.A 54,"Grazie agl'inganni tuoi (La Libertà a Nice),Sketch/fragment for a vocal trio and instruments (Michael Kelly)",Vienna,532,532,,1787,1787,31,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 54,930
+Anh.A 55,Arrangement of Aria for Tenor by Carl Philipp Emanuel Bach,Vienna,,537d,,1788,February 1788,32,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 55,931
+Anh.A 56,Arrangement of Händel's Acis und Galathea,Vienna,566,566,,1788,November 1788,32,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 56,932
+Anh.A 57,Arrangement of Händel's Messiah,Vienna,572,572,,1789,March 1789,33,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 57,933
+Anh.A 58,Arrangement of Händel's Alexander's Feast,Vienna,591,591,,1790,July 1790,34,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 58,934
+Anh.A 6,"""Klavierstück"" in F",Zürich,,33B,F Major,1766,early October 1766,10,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 6,935
+Anh.A 63,Arrangement of Händel's Ode to Saint Cæcelia,Vienna,592,592,,1790,July 1790,34,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 63,936
+Anh.A 64,"Comical Duet for Soprano and Bass, ""Nun, liebes Weibchen""",Vienna,625,592a,,1790,August 1790,34,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 64,937
+Anh.A 66,"Allegro in D major, K. 626b/16",Vienna,,626b/16,D Major,1773,1773 (uncertain),17,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 66,938
+Anh.A 7,Piano Concerto No. 1 in F,Salzburg,37,37,F Major,1767,April 1767,11,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 7,939
+Anh.A 8,Piano Concerto No. 2 in B-flat,Salzburg,39,39,B Flat Major,1767,June 1767,11,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 8,940
+Anh.A 9,Piano Concerto No. 3 in D,Salzburg,40,40,D Major,1767,July 1767,11,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.A 9,941
+Anh.C 1.13,Kyrie (lost; doubtful),Salzburg,340,Anh. C 3.06,,1780,1780,24,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 1.13,942
+Anh.C 1.39,Kyrie in C major,,221,Anh. A 1,C Major,,spurious (by Johann Ernst Eberlin),,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 1.39,943
+Anh.C 1.40,Lacrimosa in C minor,,Anh. 21,Anh. A 2,C Minor,,spurious (by Johann Ernst Eberlin),,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 1.40,944
+Anh.C 11.02,Symphony No. 2 in B-flat,,17,Anh. C 11.02,B Flat Major,,spurious (by Leopold Mozart),,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 11.02,945
+Anh.C 11.04,Symphony No. 56 in F (doubtful),Milan?,98,Anh. C 11.04,F Major,1771,November 1771?,15,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 11.04,946
+Anh.C 11.07,Symphony in D (lost or unidentified),Salzburg?,,Anh. C 11.07,D Major,1769,1769?,13,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 11.07,947
+Anh.C 11.08,Symphony in F (lost),Salzburg?,,Anh. C 11.08,F Major,1769,1769?,13,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 11.08,948
+Anh.C 11.18,"Symphony in A minor, Odense (spurious)",,Anh. 220,16a,A Minor,,,,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 11.18,949
+Anh.C 13.01,Minuet with trio in C,,,Anh. C 13.01,C Major,,spurious (by Kaspar Anton Karl van Beethoven),,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 13.01,950
+Anh.C 13.02,"Country Dances (9) (""Quadrilles""), spurious",,510,Anh. C 13.02,,,spurious,,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 13.02,951
+Anh.C 13.04,Minuet in D (actually by Leopold Mozart),,64,64,D Major,,,,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 13.04,952
+Anh.C 13.05,6 Minuets (actually by Michael Haydn),,105,61f,,,,,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 13.05,953
+Anh.C 14.01,"Sinfonia concertante in E-flat major, spurious",,297b,Anh. C 14.01,E Flat Major,,spurious,,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 14.01,954
+Anh.C 14.04,"Violin Concerto ""No. 6"" in E-flat (spurious)",Munich?,268,Anh. C 14.04,E Flat Major,1780,1780?,24,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 14.04,955
+Anh.C 14.06,Oboe Concerto in E-flat major,,,Anh. C 14.06,E Flat Major,,Mozart's authorship doubtful,,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 14.06,956
+Anh.C 16.02,Church Sonata in D (actually by Leopold Mozart),Salzburg,,124A,D Major,1774,1774,18,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 16.02,957
+Anh.C 17.12,Divertimento No. 5 in C,spurious (by Leopold Mozart; arrangement of dances by Josef Starzer and Christoph Willibald Gluck),187,Anh. C 17.12,C Major,,spurious (by Leopold Mozart; arrangement of dances by Josef Starzer and Christoph Willibald Gluck),,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 17.12,958
+Anh.C 21.02,Arrangement of 6 Preludes and Fugues by J.S. and W.F. Bach,Vienna,,404a,,1782,1782,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 21.02,959
+Anh.C 23.01,Violin Sonata in C,,55,Anh. C 23.01,C Major,,spurious (composer unknown),,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 23.01,960
+Anh.C 23.02,Violin Sonata in C,,56,Anh. C 23.02,C Major,,spurious (composer unknown),,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 23.02,961
+Anh.C 23.03,Violin Sonata in C,,57,Anh. C 23.03,C Major,,spurious (composer unknown),,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 23.03,962
+Anh.C 23.04,Violin Sonata in E-flat,,58,Anh. C 23.04,E Flat Major,,spurious (composer unknown),,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 23.04,963
+Anh.C 23.05,Violin Sonata in C,,59,Anh. C 23.05,C Major,,spurious (composer unknown),,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 23.05,964
+Anh.C 23.06,Violin Sonata in E minor,,60,Anh. C 23.06,E Minor,,spurious (composer unknown),,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 23.06,965
+Anh.C 23.07,Violin Sonata in A,,61,Anh. C 23.07,A Major,,spurious (by Hermann Friedrich Raupach),,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 23.07,966
+Anh.C 27.03,Fantasia in G minor for organ,,K2. 528a,Anh. C 27.03,G Minor,1787,1787? (incomplete),31,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 27.03,967
+Anh.C 27.04,Romance in A-flat,,,Anh. C 27.04,A Flat Major,,doubtful,,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 27.04,968
+Anh.C 27.10,Fugue in E (probably by August Alexander Klengel),,,Anh. C 27.10,E Major,,incomplete,,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 27.10,969
+Anh.C 29.01,12 Contredanses for Graf Czernin (actually by Michael Haydn),,,269b,,,,,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 29.01,970
+Anh.C 3.09,Convertentur sedentes in D major,,177,Anh. C 3.09,D Major,,spurious (by Leopold Mozart),,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 3.09,971
+Anh.C 3.42,Adoramus te in C minor,,327,Anh. A 10,C Minor,,spurious (by Quirino Gasparini)[6],,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 3.42,972
+Anh.C 6.01,"Comedy ""Die Liebesprobe""",Vienna,Anh. 28,509c,,1787,July 1787?,31,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 6.01,973
+Anh.C 8.48,"Wiegenlied (""Schlafe mein Prinzchen"")",,350,Anh. C 8.48,,,spurious (by Bernhard Flies),,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 8.48,974
+Anh.C 8.55,Sancta Maria in G major,,,Anh. C 3.15,G Major,,spurious (by Friedrich Heinrich Himmel),,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 8.55,975
+Anh.C 9.03,"Canon for two voices, ""Beym Arsch ist’s finster""",Vienna,441b,Anh. C 9.03,,1783,1783,27,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.C 9.03,976
+Anh.G (various),19 Song Cadenzas,Mannheim,,293e,,1778,Spring 1778,22,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.G (various),977
+Anh.G (various),"Cadenzas for Piano ConcertosK. 40i, 107/1, 175, 238, 246, 271, 365, 413, 414,415, 449, 450, 451, 453, 456, 459, 488 & 595",Vienna,624,626a,,1768,1768-1791,12,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.G (various),978
+Anh.H (various),6 Sketches & Fragments to a Mass (K. 698 is an instrumental piece/theme in B-flat; the rest is broken up throughout K9 Anh. H),Vienna,Anh. 109f,417B,B Flat Major,1770,1770-1783,14,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|Anh.H (various),979
+"Anh.H 1,01","Exercise Book for Barbara Ployer (including a Fugue in G minor for String Quartet, K9 Anh.H 12,17)",,,453b,G Minor,1784,1784,28,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 1,01",980
+"Anh.H 10,01",Hosanna in G,Salzburg,223,166e,G Major,1773,Summer 1773,17,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 10,01",981
+"Anh.H 10,02","Canon in G for 12 voices in 3, ""V'amo di core teneramente"" (doubtful)",Vienna,348,382g,G Major,1782,1782,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 10,02",982
+"Anh.H 10,05",Canon in A for 4 or 5 voices in 1,,,73i,A Major,1772,1772,16,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 10,05",983
+"Anh.H 10,13",Canon in D for 6 voices in 1,Vienna,347,382f,D Major,1782,1782,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 10,13",984
+"Anh.H 10,16",Canon in B-flat for 4 voices in 1,Vienna,,562a,B Flat Major,1788,September 1788,32,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 10,16",985
+"Anh.H 10,22",Canon in C minor for 3 voices in 1 (doubtful),Vienna,229,382a,C Minor,1782,1782,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 10,22",986
+"Anh.H 10,23",Canon in C minor for 2 voices in 1 (doubtful),Vienna,230,382b,C Minor,1782,1782,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 10,23",987
+"Anh.H 11,15",Canon in F for 3 voices in 1,Vienna,507,507,F Major,1786,After 3 June 1786,30,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 11,15",988
+"Anh.H 11,16",Canon in F for 3 voices in 1,Vienna,508,508,F Major,1786,After 3 June 1786,30,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 11,16",989
+"Anh.H 11,18",Canon in C for 3 voices in 1,Vienna,,508A,C Major,1786,After 3 June 1786,30,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 11,18",990
+"Anh.H 11,19-26","2 Canons in F for 3 voices in 1, 14 Canons in F for 2 voices in 1",Vienna,,508a,F Major,1786,After 3 June 1786,30,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 11,19-26",991
+"Anh.H 12,01",Fugue in G for Piano (fragment),Vienna,Anh. 41,375g,G Major,1782,Spring 1782,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 12,01",992
+"Anh.H 12,10",Fugue for String Trio in G,Vienna,443,404b,G Major,1782,1782,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 12,10",993
+"Anh.H 12,11",Fugue for Piano in G minor,Vienna,154,385k,G Minor,1782,early 1782,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 12,11",994
+"Anh.H 12,14",Fugue in G for Piano (fragment),Vienna,153,375f,G Major,1782,Spring 1782,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 12,14",995
+"Anh.H 12,18",Fugue in F for Piano (fragment; = K. 626b/14),Vienna,,375h,F Major,1782,Spring 1782,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 12,18",996
+"Anh.H 12,26",Fugue for Piano in F (fragment),Vienna,Anh. 33 & Anh. 40,383b,F Major,1782,Spring 1782,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 12,26",997
+"Anh.H 12,27",Fugue for String Quartet in C minor (fragment),Vienna,Anh. 77,405a,C Minor,1782,1782-1784,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 12,27",998
+"Anh.H 12,29",Fugue for four Singers in A,Vienna,,385n,A Major,1782,late 1782,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 12,29",999
+"Anh.H 13,01",Fugue in D for Piano,Bologna,,73w,D Major,1770,9 October 1770,14,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 13,01",1000
+"Anh.H 14,21",Fugue for String Quartet in D minor (fragment),Vienna,Anh. 76,417c,D Minor,1782,1782-1784,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 14,21",1001
+"Anh.H 19,03",Finger Exercises for Piano in C,Vienna,,626b/48,C Major,1780,End of 1780,24,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 19,03",1002
+"Anh.H 20,01-12",Solfeggios for Voice,Vienna,393,385b,,1782,August 1782?,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 20,01-12",1003
+"Anh.H 24,04",Contrapuntal Study,Vienna,Anh. 78,620b,,1791,September 1791,35,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 24,04",1004
+"Anh.H 24,11",Musical Dice Game in C,Vienna,,516f,C Major,1787,1787,31,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 24,11",1005
+"Anh.H 24,16","Antiphon in D minor, ""Quaerite primum regnum Dei""",Bologna,86,73v,D Minor,1770,9 October 1770,14,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 24,16",1006
+"Anh.H 24,17",Minuet in D (doubtful),Bologna or Rome,94,73h,D Major,1769,1769/1770,13,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 24,17",1007
+"Anh.H 9,11, 9,14",4 Riddle Canons,Bologna,89a,73r,,1772,Summer 1772,16,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H 9,11, 9,14",1008
+"Anh.H, various",14 Canonic Studies (No. 3 is K. 720; the others are in Anh.H of K9),,Anh. 109d,73x,,1772,1772,16,,,2025-09-05 20:46:28.676547+00,,9999,9999,"9999|Anh.H, various",1009
+,Studies for Thomas Attwood,Vienna,,506a,,1785,1785-1786,29,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|nan,1010
+,"Comedy ""Der Salzburger Lump in Wien""",Vienna,,509b,,1787,July 1787?,31,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|nan,1011
+,Piano Concerto in A (fragment; a sketch to K. 414),Vienna,,385o,A Major,1782,late 1782,26,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|nan,1012
+,Rondo for a Clarinet Quintet in E-flat (fragment),Vienna,Anh. 89,516e,E Flat Major,1787,1787,31,,,2025-09-05 20:46:28.676547+00,,9999,9999,9999|nan,1013
